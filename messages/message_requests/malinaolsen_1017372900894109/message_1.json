@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Malina Olsen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Malina Olsen",
+      "timestamp_ms": 1781026709299,
+      "content": "One suggestion I have is just eventually (cause I know this is still very new) but IF you ever had the time it would be cool if you could add like the pearl of great price or doc and covenants",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Malina Olsen",
+  "is_still_participant": true,
+  "thread_path": "message_requests/malinaolsen_1017372900894109",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

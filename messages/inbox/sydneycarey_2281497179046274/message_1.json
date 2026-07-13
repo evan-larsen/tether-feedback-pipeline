@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Sydney Carey"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sydney Carey",
+      "timestamp_ms": 1780028568067,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027474511,
+      "content": "No not yet",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sydney Carey"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sydney Carey",
+      "timestamp_ms": 1779837330119,
+      "content": "Is there a highlight feature?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sydney Carey",
+  "is_still_participant": true,
+  "thread_path": "inbox/sydneycarey_2281497179046274",
+  "magic_words": [
+    
+  ]
+}

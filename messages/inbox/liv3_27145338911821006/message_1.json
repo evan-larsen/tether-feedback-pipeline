@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "liv<3"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498798961,
+      "content": "No problem!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "liv<3",
+      "timestamp_ms": 1779498420348,
+      "content": "Thank you so much!! You're awesome for what you're doing!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498378388,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "liv<3",
+      "timestamp_ms": 1779494655159,
+      "content": "Hi! Could I have the early access for the google playstore version of the app! I really struggle to keep up with my reading and I feel like it would really benefit me, but my brain probably wouldn't remember to download it when it actually comes out lol! My gmail is: ringsteado@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "liv<3",
+  "is_still_participant": true,
+  "thread_path": "inbox/liv3_27145338911821006",
+  "magic_words": [
+    
+  ]
+}

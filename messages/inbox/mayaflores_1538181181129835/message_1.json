@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Maya Flores"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779550563736,
+      "content": "that's great!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maya Flores",
+      "timestamp_ms": 1779503415128,
+      "content": "Ahhh haha just wanted to let you know I\u00e2\u0080\u0099ve enjoyed the app a lot so far",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499770033,
+      "content": "It's from this little issue where the app didn't recognize some of the apostrophes in the questions so I just gotta make sure it's formatted right haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499728984,
+      "content": "Yeahh I'm getting that fixed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maya Flores",
+      "timestamp_ms": 1779408417093,
+      "content": "Inside the questions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maya Flores",
+      "timestamp_ms": 1779408404799,
+      "content": "Hi!! On first Nephi 3 there\u00e2\u0080\u0099s some weirdly placed question marks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maya Flores",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayaflores_1538181181129835",
+  "magic_words": [
+    
+  ]
+}

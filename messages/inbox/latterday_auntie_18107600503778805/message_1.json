@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "LatterDay_Auntie"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779078180688,
+      "content": "thank you so much I appreciate it \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LatterDay_Auntie",
+      "timestamp_ms": 1779077956543,
+      "content": "This is so fun! Great job\u00f0\u009f\u0099\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3899463232201571844"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LatterDay_Auntie",
+  "is_still_participant": true,
+  "thread_path": "inbox/latterday_auntie_18107600503778805",
+  "magic_words": [
+    
+  ]
+}

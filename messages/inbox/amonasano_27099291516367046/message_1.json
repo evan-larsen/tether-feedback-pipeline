@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Amon Asano"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amon Asano",
+      "timestamp_ms": 1779675861822,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675125967,
+      "content": "Gotchu! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Amon Asano"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Gotchu! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amon Asano",
+      "timestamp_ms": 1779590637909,
+      "content": "My email: amon.asanno@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amon Asano",
+      "timestamp_ms": 1779590624910,
+      "content": "Send me the Android version of the app plsss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amon Asano",
+  "is_still_participant": true,
+  "thread_path": "inbox/amonasano_27099291516367046",
+  "magic_words": [
+    
+  ]
+}

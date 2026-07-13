@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Jacqui King"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacqui King",
+      "timestamp_ms": 1779500169950,
+      "content": "Reacted \u00f0\u009f\u00a9\u00b7 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499087524,
+      "content": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a9\u00b7",
+          "actor": "Jacqui King"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacqui King",
+      "timestamp_ms": 1779462512362,
+      "content": "Hello! Could I be added as a tester on Android? My gmail is jacquilucille12@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jacqui King",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacquiking_26841834818791507",
+  "magic_words": [
+    
+  ]
+}

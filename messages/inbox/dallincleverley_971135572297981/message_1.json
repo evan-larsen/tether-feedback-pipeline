@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Dallin Cleverley"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dallin Cleverley",
+      "timestamp_ms": 1779426895188,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405455654,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Dallin Cleverley"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779385570946,
+      "content": "by the way if you ever have any issues or feedback for the app feel completely free to DM me whenever you want I usually respond pretty fast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779385555614,
+      "content": "yeahhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dallin Cleverley",
+      "timestamp_ms": 1779383604113,
+      "content": "Yeah for sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383237590,
+      "content": "oh nice that\u00e2\u0080\u0099ll be fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dallin Cleverley",
+      "timestamp_ms": 1779377720000,
+      "content": "Couer dalene Idaho's",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779377605229,
+      "content": "where are you going on your mission?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779377598310,
+      "content": "oh yeah I love that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dallin Cleverley",
+      "timestamp_ms": 1779323145734,
+      "content": "Sweet, I love the whole idea you're putting through with this, especially as someone who a mission call and hasn't read the BoM all the way thru",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779323098724,
+      "content": "hopefully won\u00e2\u0080\u0099t take more than a few days \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779323084217,
+      "content": "I\u00e2\u0080\u0099ll let you know once Google approves the app then I can get you on it \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779323062562,
+      "content": "Awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dallin Cleverley",
+      "timestamp_ms": 1779322889935,
+      "content": "I'd love to test it out on android - dallincleverley@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dallin Cleverley",
+  "is_still_participant": true,
+  "thread_path": "inbox/dallincleverley_971135572297981",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Jerrica H."
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jerrica H.",
+      "timestamp_ms": 1779499525948,
+      "content": "Thank you so much!! I'm so excited for this",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499137691,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jerrica H.",
+      "timestamp_ms": 1779458883647,
+      "content": "jhorrocks1147@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jerrica H.",
+  "is_still_participant": true,
+  "thread_path": "inbox/jerricah_1996219057930931",
+  "magic_words": [
+    
+  ]
+}

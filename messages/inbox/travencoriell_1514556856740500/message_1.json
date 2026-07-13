@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Traven Coriell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Traven Coriell",
+      "timestamp_ms": 1779933047523,
+      "content": "was just able to download it. it's actually really good, it'll help me study alongside my physical scriptures in the morning so I hopefully won't fall asleep",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405403440,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Traven Coriell",
+      "timestamp_ms": 1779387694227,
+      "content": "travencoriell@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Traven Coriell",
+      "timestamp_ms": 1779387689708,
+      "content": "oh perfect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779386042820,
+      "content": "If you want you could send me your Gmail and I could get you added as a tester so you can get access to it asap once it\u00e2\u0080\u0099s approved",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779386005177,
+      "content": "I just got the Android app uploaded yesterday but Google has to take a few days to approve it \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779385987360,
+      "content": "Hey! I saw your comment on my video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Traven Coriell",
+  "is_still_participant": true,
+  "thread_path": "inbox/travencoriell_1514556856740500",
+  "magic_words": [
+    
+  ]
+}

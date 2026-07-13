@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Nate Leigh"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nate Leigh",
+      "timestamp_ms": 1779499821050,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499683030,
+      "content": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nate Leigh"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nate Leigh",
+      "timestamp_ms": 1779427095211,
+      "content": "Yo can I get early access to Tether on google play store? I really love the app idea and really want to try it out! My gmail is nathanleigh53@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nate Leigh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nateleigh_963270266613568",
+  "magic_words": [
+    
+  ]
+}

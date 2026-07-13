@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Naomi Woidka"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naomi Woidka",
+      "timestamp_ms": 1779828431387,
+      "content": "No pressure, just a suggestion, but i look forward to seeing what you do with the app!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779826237942,
+      "content": "That could be something I get added eventually just difficult to get all the artwork done for that right now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779826225755,
+      "content": "I love that idea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naomi Woidka",
+      "timestamp_ms": 1779748661191,
+      "content": "I absolutely love your app, and had just one little idea. There are many people who enjoy visuals, so possibly adding one before some sections of reading to give the idea of what you\u00e2\u0080\u0099re about to learn? Keep up the great work, I\u00e2\u0080\u0099m loving it \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Naomi Woidka",
+  "is_still_participant": true,
+  "thread_path": "inbox/naomiwoidka_1623430922048176",
+  "magic_words": [
+    
+  ]
+}

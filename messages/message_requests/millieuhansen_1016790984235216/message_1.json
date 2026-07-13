@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Millie U Hansen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Millie U Hansen",
+      "timestamp_ms": 1780036508564,
+      "content": "hey!! i\u00e2\u0080\u0099m super excited for tether! i\u00e2\u0080\u0099m a teen lds girl who uses manna (similar but for the bible) if you need any help or suggestions please please reach out!! i\u00e2\u0080\u0099m super hyped to watch tether grow and bring the joy of christ to more people!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Millie U Hansen",
+  "is_still_participant": true,
+  "thread_path": "message_requests/millieuhansen_1016790984235216",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

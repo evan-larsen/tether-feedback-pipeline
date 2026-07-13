@@ -1,0 +1,184 @@
+{
+  "participants": [
+    {
+      "name": "Eldon Egbert"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780434148236,
+      "content": "thank you man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1780291375275,
+      "content": "Hey, the widgets look good dude",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779787618409,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779729203900,
+      "content": "that\u00e2\u0080\u0099s actually the thing I want to get added most I just have a few other more pressing things I have to finish first \u00f0\u009f\u0098\u0094",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Eldon Egbert"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779729177418,
+      "content": "I totally agree",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779698097131,
+      "content": "Ofc! One day itd be cool to have friends on it to keep each other accountable",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779676074424,
+      "content": "Hey and if you ever have any feedback or suggestions or issues or anything feel free to DM me about it yeah? I love getting feedback",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779676047888,
+      "content": "Thank you I appreciate it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779675544107,
+      "content": "Hey, i just started and its awesome. Thanks for making this dude",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779675321827,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779550627588,
+      "content": "that's awesome though that's the best use-case ever for the app I'm so happy you're using it hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779550613728,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Eldon Egbert"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779502614003,
+      "content": "Im getting ready for my senior year and lowkey kinda nervous for my mission but this is gonna make it so much fun",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779502576180,
+      "content": "Oh wow, okay heres my email:\n\nEldon.egbert@gmail.com \n\nIm actually so excited, this is an awesome idea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499932101,
+      "content": "But if you want to send me your gmail I could get you added to the tester list and get you on the app asap?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499913959,
+      "content": "I have to run it for testers only for 14 days before it lets me upload it it's terrible hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499896073,
+      "content": "Google will let me publish it publicly in about 12 days now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eldon Egbert",
+      "timestamp_ms": 1779425623370,
+      "content": "Hey, i love the app idea! When are you releasing for android??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eldon Egbert",
+  "is_still_participant": true,
+  "thread_path": "inbox/eldonegbert_990233296820150",
+  "magic_words": [
+    
+  ]
+}

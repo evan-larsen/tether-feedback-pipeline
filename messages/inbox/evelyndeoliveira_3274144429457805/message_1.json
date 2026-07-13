@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Evelyn de Oliveira"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027585466,
+      "content": "thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn de Oliveira",
+      "timestamp_ms": 1780027568779,
+      "content": "You\u00e2\u0080\u0099re doing so well keep it up, I\u00e2\u0080\u0099ve already recommended the app to all my friends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn de Oliveira",
+      "timestamp_ms": 1780027546609,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027426789,
+      "content": "And yeah I would really love to get pictures added I've been thinking about adding artwork along the path it's just going to be really time consuming and difficult to do so I've got to figure out how hahaha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evelyn de Oliveira"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027385891,
+      "content": "And yes I just got a streak widget added today in the latest update",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027379018,
+      "content": "These are all great ideas I like these",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evelyn de Oliveira",
+      "timestamp_ms": 1779916903321,
+      "content": "Your app is freaking awesome and I\u00e2\u0080\u0099m not sure what you already have planned but I used it and I have a few thoughts \n-add a back button for you to be able to read after you see the question to help you better understand \n- idk if this is already a feature but a widget is definitely needed \n- maybe adding pictures like from the Book of Mormon stories books for kids though I understand licensing might be an issue.\nOverall absolutely great app, i genuinely didn\u00e2\u0080\u0099t know i needed it but I never downloaded an app so fast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Evelyn de Oliveira",
+  "is_still_participant": true,
+  "thread_path": "inbox/evelyndeoliveira_3274144429457805",
+  "magic_words": [
+    
+  ]
+}

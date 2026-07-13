@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "Avalyn Harris"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1780980282412,
+      "content": "Are you thinking about making it for th bible and doctrine and covenants?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1780610234852,
+      "content": "Sweet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780610156779,
+      "content": "I\u00e2\u0080\u0099m working on that right now actually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1780585418425,
+      "content": "Also it would be cool if you could save some verses that you can come back to later to read and ponder on.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1779674584607,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674548668,
+      "content": "I might be able to apply to get access to them... but we'll see",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674535918,
+      "content": "It's just going to be really difficult to find or produce audio recordings since I can't use the churches because it's copyrighted",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Avalyn Harris"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674504952,
+      "content": "I agree",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1779634570946,
+      "content": "Also it would be awesome if there was like an option that you can listen and read, like on gospel library so it\u00e2\u0080\u0099s easier for your brain to stay focused.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779384389103,
+      "content": "a lot of people have been requesting it I love the idea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779384338186,
+      "content": "Yeah I totally agree that is next on my list for things to add",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Avalyn Harris",
+      "timestamp_ms": 1779378025027,
+      "content": "You should make a widget for the app with a streak so we can remember I really like it though",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Avalyn Harris",
+  "is_still_participant": true,
+  "thread_path": "inbox/avalynharris_1793722791605851",
+  "magic_words": [
+    
+  ]
+}

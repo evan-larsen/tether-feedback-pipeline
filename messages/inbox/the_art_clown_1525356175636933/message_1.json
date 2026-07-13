@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "The_Art_Clown"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383618325,
+      "content": "And I\u00e2\u0080\u0099m glad you\u00e2\u0080\u0099re loving the app so far!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383612177,
+      "content": "I\u00e2\u0080\u0099ll definitely add that to my list of things to get done",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383599170,
+      "content": "Yeah I totally agree I\u00e2\u0080\u0099ve noticed reading at night is super bright and jarring with the white backgrounds hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The_Art_Clown",
+      "timestamp_ms": 1779378101989,
+      "content": "If you could make a dark mode for tether, that would be fantastic, I\u00e2\u0080\u0099m already loving the app!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The_Art_Clown",
+  "is_still_participant": true,
+  "thread_path": "inbox/the_art_clown_1525356175636933",
+  "magic_words": [
+    
+  ]
+}

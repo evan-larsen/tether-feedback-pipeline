@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Parker Dent"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027271558,
+      "content": "I love that idea I'll see if I can get it added eventually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Parker Dent",
+      "timestamp_ms": 1779990209145,
+      "content": "yo first of all i wanna say the app is \u00f0\u009f\u0094\u00a5 one suggestion i have is that duolingo has this feature where it blocks all of your distracting apps before you do a lesson and that has helped a lot so if you wanna add that in that would act be lit",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Parker Dent",
+  "is_still_participant": true,
+  "thread_path": "inbox/parkerdent_26963967816631403",
+  "magic_words": [
+    
+  ]
+}

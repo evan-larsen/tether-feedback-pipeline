@@ -1,0 +1,127 @@
+{
+  "participants": [
+    {
+      "name": "Aliya Crane"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779503626836,
+      "content": "It worked!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779416908917,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779404692659,
+      "content": "let me know if that link works",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aliya Crane"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779404685256,
+      "content": "Hey! It got approved!! https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! It got approved!! https://play.google.com/store/apps/details?id=com.tetherdaily.app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779396126607,
+      "content": "I love the idea of the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779396118733,
+      "content": "That's so exciting!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779396107706,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779369803651,
+      "content": "hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779369793235,
+      "content": "yeah I\u00e2\u0080\u0099ll let you know once Google approves the app for testing",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aliya Crane"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779369777717,
+      "content": "perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779339562379,
+      "content": "aliyagracecrane@gmail.com\nThis is awesome!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aliya Crane",
+      "timestamp_ms": 1779339541610,
+      "content": "Yes please!",
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3901556437331639232"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aliya Crane",
+  "is_still_participant": true,
+  "thread_path": "inbox/aliyacrane_1656072128800376",
+  "magic_words": [
+    
+  ]
+}

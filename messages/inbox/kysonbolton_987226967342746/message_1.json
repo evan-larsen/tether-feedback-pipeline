@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kyson Bolton"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kyson Bolton",
+      "timestamp_ms": 1780257075702,
+      "content": "You should make the XP be able to do something like purchasing badges \u00ef\u00bf\u00bcor ranks or something like that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498823844,
+      "content": "nicee!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kyson Bolton",
+      "timestamp_ms": 1779498323972,
+      "content": "Heck yeah I love the app i\u00e2\u0080\u0099ve had it for about two days and I\u00e2\u0080\u0099m already loving it. \u00ef\u00bf\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498279599,
+      "content": "A lot of people have been suggesting that I'm definitely going to get it added soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498272846,
+      "content": "Yes I totally agree",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kyson Bolton",
+      "timestamp_ms": 1779495632481,
+      "content": "Add widgets it can remind people to get back in the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kyson Bolton",
+  "is_still_participant": true,
+  "thread_path": "inbox/kysonbolton_987226967342746",
+  "magic_words": [
+    
+  ]
+}

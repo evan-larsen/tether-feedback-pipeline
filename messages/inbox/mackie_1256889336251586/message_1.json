@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Mackie"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027116845,
+      "content": "Yes that worked! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Yes that worked! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779830412471,
+      "content": "Try, mackiedaughton@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779830407553,
+      "content": "Mayne my gmail will work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779826058242,
+      "content": "I'm so sorry it's still telling me the email doesn't exist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779677304787,
+      "content": "Mackenziedaughton@yahoo.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779675029121,
+      "content": "Yes im sure. Maybe try this...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674823935,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mackie_1256889336251586/photos/842529118906267.png",
+          "creation_timestamp": 1779674816
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674823832,
+      "content": "Hey! Are you sure you sent me the right email? Google is just telling me it doesn't exist",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779660262607,
+      "content": "MackenzieDaughton@yahoo.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mackie",
+      "timestamp_ms": 1779660261888,
+      "content": "I need this app!!!! But im Samsung....so here is my email",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mackie",
+  "is_still_participant": true,
+  "thread_path": "inbox/mackie_1256889336251586",
+  "magic_words": [
+    
+  ]
+}

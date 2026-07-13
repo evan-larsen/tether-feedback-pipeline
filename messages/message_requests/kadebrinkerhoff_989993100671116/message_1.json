@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Kade Brinkerhoff"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kade Brinkerhoff",
+      "timestamp_ms": 1780588339634,
+      "content": "dude this app is awesome, it\u00e2\u0080\u0099s burning that fire in me to read again. but with that i\u00e2\u0080\u0099ve been using this app for my reading rather than the traditional scriptures app and since tether has questions to answer and stuff it makes me understand and read the verses in more depth and i learn things i didt know before. what i think would be awesome is if you found a way to add highlighting verses. you could just do it mid read and then at the bottom of home page there could be tabs where you add highlights and you could even add mistakes, where you can redo questions. i think this would be an amazing addition if possible and helps so many people. thanks man keep up the work love what your doing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kade Brinkerhoff",
+  "is_still_participant": true,
+  "thread_path": "message_requests/kadebrinkerhoff_989993100671116",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

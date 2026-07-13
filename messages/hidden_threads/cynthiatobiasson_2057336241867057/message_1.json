@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Cynthia Tobiasson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cynthia Tobiasson",
+      "timestamp_ms": 1779259156713,
+      "content": "Hey there! I just downloaded the Tether app and I was wondering why I can\u00e2\u0080\u0099t choose a book besides Nephi? Also I\u00e2\u0080\u0099m really glad you thought of putting this together I\u00e2\u0080\u0099m loving it so far!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cynthia Tobiasson",
+  "is_still_participant": true,
+  "thread_path": "hidden_threads/cynthiatobiasson_2057336241867057",
+  "magic_words": [
+    
+  ]
+}

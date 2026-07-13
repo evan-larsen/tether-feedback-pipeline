@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lincoln Petersen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lincoln Petersen",
+      "timestamp_ms": 1779675078359,
+      "content": "Yeah I understand good luck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675063028,
+      "content": "That's the thing I want to get added most actually haha there are just a few other things I have to do first",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675051549,
+      "content": "It's going to take me a while to set up that whole system and those features but I'm definitely going to get stuff like that added eventually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675027640,
+      "content": "I totally agree",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lincoln Petersen",
+      "timestamp_ms": 1779598317055,
+      "content": "The app is great but I think you should consider adding a way to share the app and have friends on the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lincoln Petersen",
+  "is_still_participant": true,
+  "thread_path": "inbox/lincolnpetersen_1979372206021854",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Megan Rimington"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megan Rimington",
+      "timestamp_ms": 1780032882816,
+      "content": "Thank you so much I love the app already",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027445493,
+      "content": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan Rimington",
+      "timestamp_ms": 1779907483291,
+      "content": "Hey! I love your idea for tether. I would love to be a tester for the app. \nRimingtonmegan@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan Rimington",
+  "is_still_participant": true,
+  "thread_path": "inbox/meganrimington_2050083055922416",
+  "magic_words": [
+    
+  ]
+}

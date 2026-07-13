@@ -1,0 +1,1174 @@
+CHATGPT FEEDBACK PACK
+window=2026-05-15..2026-06-14
+rows=991
+
+CATEGORY MAP
+1=praise|general|count=200
+2=tester_interest|android|count=120
+3=non_product|social|count=110
+4=non_product|other|count=94
+5=tester_interest|general|count=78
+6=other|unclear|count=54
+7=tester_interest|beta_access|count=52
+8=feature_request|content_scope|count=44
+9=confusion|availability|count=29
+10=feature_request|other|count=28
+11=feature_request|widget|count=17
+12=feature_request|audio|count=15
+13=bug_report|other|count=14
+14=confusion|how_to_use|count=14
+15=confusion|where_is_link|count=12
+16=feature_request|favorites|count=11
+17=feature_request|social|count=11
+18=praise|value|count=9
+19=bug_report|scrolling|count=8
+20=bug_report|access|count=7
+21=confusion|content_scope|count=7
+22=growth_signal|other|count=7
+23=feature_request|integration|count=5
+24=feature_request|notifications|count=5
+25=feature_request|streaks|count=5
+26=growth_signal|promotion|count=5
+27=bug_report|content_loading|count=4
+28=non_product|joke|count=4
+29=bug_report|linking|count=3
+30=confusion|other|count=3
+31=feature_request|content_navigation|count=3
+32=growth_signal|referral|count=3
+33=bug_report|install|count=2
+34=feature_request|blocking_tools|count=2
+35=feature_request|leaderboard|count=2
+36=tester_interest|app_link|count=2
+37=growth_signal|influencer|count=1
+38=non_product|spam|count=1
+
+FORMAT
+code|||feedback
+
+DMS
+DATE 2026-05-17
+4|||Liked a message
+4|||This is so fun! Great job🙌 | [link] https://www.instagram.com/stories/evan.builds.tether/3899463232201571844
+DATE 2026-05-18
+1|||hey! does tether have past 1 Nephi yet? i love it but im in alma rn and it wouldn’t let me select a chapter besides 1 nephi
+22|||Thanks for messaging me I was wondering if your doing this completely on your own or if you have friends helping you. I also love the idea and was wondering if there’s any way I can help or support you by being a tester or something?
+2|||That sounds great. I will definitely let you know if I come across anything that could be fixed or improved. If you need more testers for android I have a good friend @jonahlew12 who is an awesome person and has an android and would be willing to help. Just DM him if you want the help. Let me know if you need help with anything and thank you for the awesome response!
+DATE 2026-05-19
+1|||this idea of tether is so cool
+1|||i just downloaded it and i’m so excited! i have been struggling understanding and getting into the scriptures and can’t wait to see how this helps me! thank you for creating this
+9|||Ciao I really love your app tether, but there is one problem I cannot download it due to having a Samsung phone. it would be nice for you to make a Samsung version so we can all enjoy the app! I think it's really cool and I've been looking for an app like tether to help me start reading my book of Mormon scriptures so it would mean a lot if you can make an Android version!
+4|||He did see one descending brighter than the sun in his vision in verse 9
+DATE 2026-05-20
+1|||Hey there! I just downloaded the Tether app and I was wondering why I can’t choose a book besides Nephi? Also I’m really glad you thought of putting this together I’m loving it so far!
+25|||Hi! I always have such a hard time keeping streaks on the library app or Duolingo but Duolingo just implemented this feature where you can lock certain apps until you’ve done a lesson or added to your streak for the day. This is made it SO easy for me to stay consistent as I’ve chosen TikTok and instagram to be blocked each day. All I do is complete one lesson and then my apps unlock. I know this might be hard to implement with the screen time settings and everything but please keep it in mind as I think it would be a great feature! I’ll also mention that it’s optional and you have to opt in to locking your apps which I think is important. You should go check it out on Duolingo. Also I love tether!! Thanks so much!!
+12|||Hey Evan, I just downloaded the app and I love it! I think it’s amazing and an awesome idea! I saw that you were asking for suggestions and i only have 2. One of them is about maybe adding a audio or read allowed for the verses, and the second is maybe having a way to connect with family and friends and having some kind of like “leaderboard” for them. I think the leaderboard will help people also want to be on the app more.
+4|||Yes please! | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+1|||aliyagracecrane@gmail.com This is awesome!
+4|||my Gmail is binkybunnyanna@gmail.com | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+11|||I got a suggestion for your app. You should make it so it can turn into a widget so it is always on my home screen. Just a suggestion, and I love the app by the way great idea ￼￼
+28|||Cuz he is
+28|||He's the pedo version
+4|||bresciajohnson@gmail.com 🙏🏼🙏🏼 | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+4|||Liked a message
+9|||Is the app available for Android users
+4|||iPhone 14 Pro Max
+19|||This is all I get when I clicked on the first button
+6|||It won’t let me scroll
+6|||Awesome thanks
+2|||I'd love to test it out on android - dallincleverley@gmail.com
+3|||Sweet, I love the whole idea you're putting through with this, especially as someone who a mission call and hasn't read the BoM all the way thru
+7|||Hemely0218@gmail.com
+4|||turnerethen8@gmail.com | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+4|||Liked a message
+4|||jessiepoland12@gmail.com | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+7|||wait sorry jessieparties@gmail.com
+4|||Liked a message
+1|||Hey man! My freind told me about your app and I think its amazing! I would love to be a tester for you!
+7|||My gmail is jonahlewis541@gmail.com
+3|||Okay, thanks! Ill let you know when I get it.
+4|||5422marz@gmail.com | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+4|||Reacted 👍 to your message
+1|||Thank you 😊 I downloaded your app, but I have some homework to finish first then I plan to use it!
+9|||Hey im on an Iphone, in The Netherlands
+29|||This is what i see when i try to use the link
+3|||And when i look up the app in the appstore
+1|||Yeah no worries, im definitely keeping an eye out! Its such an amazing concept!
+21|||Hey man, me and my girlfriend try to read at least 5 verses every night we saw your video on the release of tether and wanted to try it but we couldn’t change the book we were in from first Nephi when we were in mosiah, it would only allow us to change the chapter
+DATE 2026-05-21
+5|||Could you send me the link to tether bc I can’t find it on the App Store
+1|||Thank you sm
+9|||It not avalible in my country 😭😭
+9|||Ireland
+3|||Yes plz
+6|||Ty
+4|||Liked a message
+6|||That's so exciting!!
+1|||I love the idea of the app
+4|||Liked a message
+2|||I would love early access for google play store! 5gardnerkids@gmail.com
+3|||Yay!
+4|||Aubrey sent an attachment. | [shared] Customização fácil 👖✂️ Você encontra o blazer no @mercadolivre , ótima qualidade com entrega rápida e segura 🤩 ID: X6U4Y3-2N7F #AeC279 #MercadoLivre #MercadoLivreFashion #MeusFavsDoMercadoLivre #upcycling | [link] https://www.instagram.com/reel/DYVOzqQNpTt/?id=3897086175272670445_4017211717
+4|||Liked a message
+7|||stinionsd994@gmail.com
+4|||Liked a message
+11|||You should make a widget for the app with a streak so we can remember I really like it though
+3|||Yes bro absolutely!
+7|||Bladenburg2008@gmail.com
+4|||Liked a message
+4|||Liked a message
+3|||I gotchu bro!!!
+4|||Liked a message
+3|||YAYYYY IT WORKED
+1|||I am definitely using this
+5|||Can I be a tester for the tether app??? My gmail is brennencla@gmail.com
+4|||Liked a message
+7|||hey email for the app
+7|||calebmcritchie@gmail.com
+7|||clebwestover@gmail.com
+6|||K thanks
+3|||That would be awesome, yes! My email is cmcwalk@gmail.com
+2|||It'd love to get in on the beta testing with Tether (Book if Mormon) for android. It looks amazing peekalabooboo@gmail.com
+6|||😃
+4|||Reacted 😃 to your message
+1|||I just tested the 1st part of lvl 1 of 1st Nephi. I love this app so far. There are no issues at all. I tend to forget some things. It really does make you think in this app. I can't wait to continue further in this app. Thank you so much!
+4|||Couer dalene Idaho's
+6|||Yeah for sure
+4|||Liked a message
+2|||Hey, i love the app idea! When are you releasing for android??
+3|||Yess ok!
+1|||Thank you!
+4|||Reacted 👍 to your message
+4|||Liked a message
+4|||Reacted 😭 to your message
+3|||frrr hopefully 🤞
+4|||Liked a message
+5|||so this isn't an issue wtith the app js with my phone. but since i have parental controls and theres a whole software in my phone it basically prevents me from installing apps for testing ig since it doesn't show up on the parents end to apporve 💔💀 tldr i can't test it
+4|||Liked a message
+6|||Of course, happy to man
+15|||Here's my number, shoot me a text
+4|||8019177008
+27|||Hey there i recently downloaded the tether app, this app seems like it will be amazing and really help me to fully understand the scriptures even better. I do have a question though, when i got in i clicked get started and clicked already reading somewhere because i am currently reading it and i am at Alma 2. When i clicked already reading it wouldn’t let me chose which part i am at, it was stuck on 1 Nephi. I was wondering how could i change that and go to Alma 2? Thanks for the time, keep up the great work!
+1|||awesome, thank you!
+1|||Man this is actually so cool! Is there anything I need to do?
+13|||It won’t let me send the screen shot for whatever reason but there’s a typo on the question in Nephi 2 ?-17 lol. Just thought you should know
+4|||mindycldwll@gmail.com | [link] https://www.instagram.com/stories/evan.builds.tether/3901556437331639232
+2|||I would love to test this app on Android. I have struggled with reading the book of Mormon for years and I stumbled across your video just randomly and went to go download the app and saw that it was only for Apple. I have a Google phone but as soon as it's available I'd love to try this out and see if it can help me with my scripture study. I think it's amazing that you are doing this. It just shows how much you care about that book
+7|||Yes it's linkaynic@gmail.com I'm excited to try this!
+4|||Liked a message
+5|||Would love to test it out! My email is margaret.reynolds@missionary.org
+26|||Perfect! Thank you so much! If it works I'll see if I can reccomed it to my mission president maybe we can get the pros missionaries in my area to start reccomending it to people they teach
+4|||Liked a message
+1|||Ahhhh!! Thank you!
+6|||I will! And if I do I'll send you a second email right away
+7|||Hmmm..... This is what I got. Could you try maggie.r.reynolds@gmail.com instead? Sorry
+1|||Thank you so much!
+4|||Liked a message
+6|||Thanks! Just download the app!
+4|||Liked a message
+1|||Thank you again!
+3|||Will do! I'm exited!
+11|||Love the app. Just got through 1 Nephi 1. One idea, and I don't know how easy it would be to pull this off especially cuz I don't know much about Kotlin or Swift, but could you make a streak widget for your home screen?
+4|||Liked a message
+1|||Thank you very much I am really looking forward to it😃
+1|||Thank you!
+1|||I love the app this is exactly what I prayed for:)
+26|||Okay thank you very much! I will let you know if I do! Will it be fine if I were to share the link to my ward?
+3|||Okay I will wait 14 days just because I don't have their emails but the second I find out it's for everyone:)
+13|||Hi!! On first Nephi 3 there’s some weirdly placed question marks
+13|||Inside the questions
+2|||Yo can I get early access to Tether on google play store? I really love the app idea and really want to try it out! My gmail is nathanleigh53@gmail.com
+3|||ohhhh 😂
+6|||I love the idea behind the app it’s awesome
+3|||awesome will do man
+7|||Renantemp25@gmail.com
+6|||Hey, brazil got your back
+5|||I'd like to become a tester! rygusttshowbiz@gmail.com
+2|||Hey if you need an android user to test it I am down to help. ryanpnielsen@gmail.com
+3|||No problems. Already finished the first reading.
+4|||Reacted 👍 to your message
+7|||Dude im in. Taylormichaelheninger@gmail.com
+10|||If you could make a dark mode for tether, that would be fantastic, I’m already loving the app!
+1|||oh perfect
+7|||travencoriell@gmail.com
+4|||Vienna sent an attachment. | [shared] my bad guys 😅 | [link] https://www.instagram.com/reel/DYlqlory1sY/?id=3901711956444928792_24374813481
+5|||viennacheney8277@gmail.com for the early access!
+DATE 2026-05-22
+5|||This is my email aaquiltahtli@gmail.com for testing the app. Would love to try the app.
+11|||Hi! I’ve tried out tether and I love it so much, it’s an easy way to start a habit. I think it would be so cool if it had a widget like Duolingo to remind you to keep the streak up! And maybe if you could there could be links to the gospel library for references or something like that?!
+3|||It worked!
+10|||Hey, the app is awesome!! It’s definitely going to help me be better at seminary and carry my young woman’s class. This isn’t really criticism but I just wanted to suggest that as much as I love collecting the xp I think having a reward once you collect enough, like you can buy something or find characters, like a little Nephite, that’s you can put the armor of god on would be really cool !!! Thanks for all you do. God loves you!!! 💗💗💗
+4|||Liked a message
+4|||Reacted 😂 to your message
+1|||Kk perfect!!!
+20|||I tried to download the app. It says its not found
+3|||Yooo thanks bro
+7|||Awesome! This is great! Camilleparmenter@gmail.com
+6|||Thats awesome, thanks! Is there any way to add my husband too?
+7|||Parmenterjared@gmail.com
+6|||Thanks!
+1|||Yay! We are so excited
+7|||fishslayer2010cm@gmail.com
+7|||derrickdanielle5989@gmail.com
+1|||This is so cool! I'm serving my mission soon and this will be a big help
+1|||Oh wow, okay heres my email: Eldon.egbert@gmail.com Im actually so excited, this is an awesome idea
+6|||Im getting ready for my senior year and lowkey kinda nervous for my mission but this is gonna make it so much fun
+2|||Yo I'm an android and wanna test your app
+4|||Reacted 👍 to your message
+4|||Reacted 💔 to your message
+4|||Reacted 😂 to your message
+3|||loll yeah
+5|||gaius967@gmail.com I would love to test your app
+8|||Hey! So I really like your idea of the app and I just downloaded it! I know coding takes a really long time but I was wondering if you were ever planning on moving into the old and New Testament? And maybe even doctrine and covenants?
+6|||Oh no worries at all!
+2|||Hello, i would like to have early acess to the tether app on android! This looks amazing, and will really help me. My gmail is hjnelson14@gmail.com
+3|||Got it installed! Thanks!
+2|||Hello! Could I be added as a tester on Android? My gmail is jacquilucille12@gmail.com
+4|||Reacted 🩷 to your message
+7|||jhorrocks1147@gmail.com
+1|||Thank you so much!! I'm so excited for this
+7|||Momyo5621@gmail.com
+7|||Krewtwitchell30@gmail.com
+10|||Can you please send it on google
+18|||Ive been trying to lock in and read ot for forever now but i havent funished yet
+11|||Add widgets it can remind people to get back in the app
+3|||Heck yeah I love the app i’ve had it for about two days and I’m already loving it. ￼
+2|||Hi! Could I have the early access for the google playstore version of the app! I really struggle to keep up with my reading and I feel like it would really benefit me, but my brain probably wouldn't remember to download it when it actually comes out lol! My gmail is: ringsteado@gmail.com
+1|||Thank you so much!! You're awesome for what you're doing!
+1|||No problem anytime it's a wonderful app😃
+7|||Matthewbot100@gmail.com
+6|||Ahhh haha just wanted to let you know I’ve enjoyed the app a lot so far
+4|||Liked a message
+3|||Yesss, I'd love that!
+7|||Mnathandejong@gmail.com
+1|||It works so far, I'm in 1st Nephi, and work like a charm!
+13|||I found another mistake, it’s just a typo
+2|||I'd love to try tether on Android!
+2|||Hey, Android user here. Would love to beta test! Here's my Gmail: peterjball48@gmail.com
+2|||Can I get Early Access for the Android version!
+7|||peyton09conover@gmail.com
+1|||What the freak, this is awesome!!
+1|||Thank you!!
+4|||Liked a message
+7|||Memememe, I want to help test!! sidthekid.mathwizard@gmail.com
+4|||Reacted 🎉 to your message
+21|||I chose to pick up from where I had left off. The questions help solidify the reading the app is smooth Handling all of this i don't no, how I can best help. I'm gonna keep this street going. And maybe follow-up at a different time. Let me know if you're looking for anything different. So far everything was really smooth
+3|||Yeah, of course man.I appreciate the invite! Will do
+6|||Yo nice last name dude
+1|||Mad respect
+1|||I absolutely love what you’re doing tho, I do have mad respect for that
+DATE 2026-05-23
+7|||Georgeaiden071@gmail.com
+1|||Thank you
+4|||Just downloaded it! We’ll see how this goes!! | [link] https://www.instagram.com/stories/evan.builds.tether/3903780883689786112
+2|||Send me the Android version of the app plsss
+7|||My email: amon.asanno@gmail.com
+2|||Ooh. My google play email is meilon000@gmail.com
+3|||It worked! Thanks
+3|||Oh sweet! Hey man!
+37|||I have some LDS influencer connections. You know ward radio? When the app is fully finished lmk I’ll send it over to ward radio
+6|||thanks ill try a few leasons
+1|||so excited
+4|||can you also add a audio like duo | [link] https://www.instagram.com/stories/evan.builds.tether/3903775473101088606
+12|||Hey, I loved the app! Thank you for making it. In response to one of your videos- I think an improvement that could be made would be adding sound? Like in Duolingo there are sound effects when you answer the questions. I know that annoys some people though so if you do add them you should have an option to mute it. I’m excited to start using it consistently this summer and share it with my family & friends. Thank you, 😊
+2|||Can you put me on the early access list for Tether on Google Play? I'm prepping for my mission and this app sounds amazing! It's ejmudskipper@gmail.com
+6|||Thanks!
+7|||eliwilliamstorrer@gmail.com
+1|||Thank you so much! I'm really excited
+5|||Yo can I get this?
+2|||I've got a Motorola phone, not sure if it will work
+3|||Sorry about that
+3|||Yah
+7|||gideonjons47@gmail.com
+3|||Yah that's fine
+6|||Are you using python to code the app?
+22|||If you’re looking for volunteers to help I know a bit of python, not anything big just an introduction college course, but I think it would be fun to help with this project if you’re looking for some!
+1|||Great! If I find anything I’ll make sure to mention it then. You’ve got a really great idea here!
+2|||I'm on android Motorola specifically. If you still need testers emmettja1109@gmail.com
+7|||jasperdane.baniel.bayot@gmail.com
+2|||I’d love to try the app you launched, and I’m looking forward to it being available on Android. I love The Book of Mormon, and I want my study to be fun & engaging ☺️.
+4|||Liked a message
+1|||Bro this is sick man im proud of u this is next level
+6|||Big thanks this'll help me work on staying consistent
+6|||I have a suggestion
+10|||You could add a feature where it describes the answer and breaks it down
+6|||Bet
+11|||Hey! I downloaded your app a few days ago and I am loving it so far!!! It has really helped me be more consistent in connecting with Jesus daily, but I was thinking that adding a widget option for the Apple Home screen would be super cool! Just a suggestion!
+1|||That's awesome! Great to hear. Good luck!!
+4|||kacastrey@gmail.com | [shared] kacastrey@gmail.com
+2|||i would like to be a tester for tether on android!!
+6|||thanks!!
+27|||When i tried to set where i was in the book of mormon it let me choose the chapter but not the book
+6|||Its all good i prolly should reread nephi 2
+7|||kyson.omer@gmail.com
+4|||Liked a message
+17|||The app is great but I think you should consider adding a way to share the app and have friends on the app
+13|||the app is awesome! it gives me a greater understanding and to me it’s way easier to read! i’ve noticed for the questions after reading that the apostrophes turn into question marks. like “nephi?s” and “fathers?” and a dark mode with a black background with white text would be awesome!
+8|||dope bro thanks! the app is sick? are other books gonna be in it too? like d&c and the bible?
+6|||no yeah i bet it takes forever but im excited for em!
+DATE 2026-05-24
+3|||Can you seet the link to my brother email. His email is moe.cuauhtli@gmail.com
+3|||Ok
+2|||Hii i have an android phone and id love to try out your Book of Mormon app!! Thank you so much!! amd3786@gmail.com
+4|||Liked a message
+3|||Will do!
+2|||Yo, is it possible i could get Tether early for android??
+7|||murphyammonj@gmail.com
+1|||Thank you! I really appreciate it. Ive been trying to get back into reading the Book of Mormon especially looking at serving a mission in a year or so, so I really appreciate it!
+4|||Liked a message
+2|||Could I buy Chance be added as a tester I have an android
+3|||*by
+7|||andersenrhale@gmail.com
+12|||Also it would be awesome if there was like an option that you can listen and read, like on gospel library so it’s easier for your brain to stay focused.
+4|||Reacted 👍 to your message
+13|||Hello! I learned about your app from a friend who was play testing it for android and I have loved it so far! I did notice however that when I am getting quizzed after each reading whenever there is an apostrophe it puts a question mark instead, so I'm not sure what that is but I love the app overall.
+3|||Yes!
+4|||Liked a message
+1|||I just want to say thank you!! Tether: Book of Mormon was exactly what I was looking for! I came across your videos, tried the app and told everyone I know!!
+4|||Liked a message
+3|||Will do!
+4|||Liked a message
+6|||Hey, i just started and its awesome. Thanks for making this dude
+16|||Hey I just wanna say I LOVE YOUR APP!!! I’ve been recently in a slump of reading my scriptures and this is helping me to read them more but also actually understand them so thank you so so much! The only thing you could change is maybe make it so you could highlights parts of verses kind of like in the lds library app but I truly love it and I’m so blessed to have found it!
+4|||Liked a message
+6|||Thanks man this will be great
+5|||Do you need more people to test still?
+3|||Ok, thanks bro
+3|||Alr thks
+6|||Yeah I understand good luck
+2|||I need this app!!!! But im Samsung....so here is my email
+7|||MackenzieDaughton@yahoo.com
+7|||Yes im sure. Maybe try this...
+7|||Mackenziedaughton@yahoo.com
+13|||Hey! Nothing big, but for the question that went along with 1 Nephi 2:11-13 (or somewhere around there) you spelled father's like this: father?s.
+13|||Going through the apps questions more I've found a few more words that should have apostrophes and instead have question marks instead. I don't mind, but I do know you want your product as polished as possible
+4|||Liked a message
+4|||Liked a message
+4|||Liked a message
+3|||Perf I'll try updating it in my Google app store. Thanks!
+6|||Hahaha no worries! keeping up to date with an app everywhere is hard.
+2|||Hey, I got my mission call to Brazil and I'd love to test your app! I have an android so here is my email: nataliealexisbassett@gmail.com
+4|||Liked a message
+6|||Thanks!!
+5|||Hey can I be added to the early access ryderblue029@gmail.com
+4|||Ryli sent an attachment. | [shared] my bad guys 😅 | [link] https://www.instagram.com/reel/DYlqlory1sY/?id=3901711956444928792_24374813481
+7|||ryli0713007@gmail.com
+2|||I would love to be a tester for Android!
+7|||Scott292008@gmail.com
+1|||Love, love, love thank you so much
+DATE 2026-05-25
+4|||Liked a message
+3|||Ofc! One day itd be cool to have friends on it to keep each other accountable
+2|||Could you please add me to Android Beta? My E-Mail eliasmhahn@gmail.com.
+1|||Thank you!
+2|||I have an android and I want the app!
+2|||Got a Google pixel but wanna try this out, my Gmail is ezramanis09@gmail.com
+3|||Yo love the no in app purchases for the app feels super clean and love the idea just wondering since I’m already at mosiah 24 when the next chapters are going to come out estimated no rush or anything just wondering. Love the app!!
+4|||Liked a message
+7|||Kelseyleighgee2009@gmail.com
+10|||I absolutely love your app, and had just one little idea. There are many people who enjoy visuals, so possibly adding one before some sections of reading to give the idea of what you’re about to learn? Keep up the great work, I’m loving it 😁
+13|||I've noticed an issue with apostrophes rendering as question marks, which in this case leaves a somewhat comical result😂
+4|||Liked a message
+3|||mcgiffinrobby@gmail.com here is my email, tethr looks like a cool app, I want to try it, am turning in my mission papers soon
+DATE 2026-05-26
+1|||Thank you so much!!!
+9|||Hey! Can I get the Google pixel version of the app? This looks so awesome!
+4|||Liked a message
+3|||Yah it's ellieasburry@gmail.com
+1|||Thank you!
+3|||Can you add rasburrybliss@yahoo.com and avaasburry@gmail.com
+1|||Also I love the app it's so cool!!!
+6|||🙏
+13|||Hello, loving the app so far, just had a small typo to report
+7|||isaacjayme100@gmail.com
+5|||I would love to be able to test the app Here is my Gmail jaydensullivan103@gmail.com
+1|||Omgosh yes I finished my first lesson and it was great I'm so excited to do more!!
+7|||Mayne my gmail will work
+7|||Try, mackiedaughton@gmail.com
+3|||No pressure, just a suggestion, but i look forward to seeing what you do with the app!
+5|||Yo I would love to be a tester for the tether app my Gmail is orwdevenney@gmail.com
+16|||Is there a highlight feature?
+DATE 2026-05-27
+8|||Idea: So duolingo has different languages you can choose from, what about different sections for the Old Testament, New testament and D&C
+8|||That way you can choose what ever you are studying during come follow me
+6|||Thanks
+11|||Your app is freaking awesome and I’m not sure what you already have planned but I used it and I have a few thoughts -add a back button for you to be able to read after you see the question to help you better understand - idk if this is already a feature but a widget is definitely needed - maybe adding pictures like from the Book of Mormon stories books for kids though I understand licensing might be an issue. Overall absolutely great app, i genuinely didn’t know i needed it but I never downloaded an app so fast
+13|||Hey, it seems all the apostrophes in the app are question marks
+5|||Hey! I love your idea for tether. I would love to be a tester for the app. Rimingtonmegan@gmail.com
+17|||Hey Evan! I got tether and I honestly love it!! And I got most of my young women’s class to get it too! We were talking about how awesome it would be to add friends on tether, so this is my suggestion for a future update to be able to add friends.￼ Thank you so much for making this app it helps me read and stay consistent with my scripture study!
+19|||I've noticed that when clicking on the push notification, the app gets stuck on the loading screen, and I have to exit the app, and start it up again
+5|||Yo can you give me early access
+2|||Im on android
+12|||You should add noise to the app
+3|||Ok 31pcalero@gmail.com
+1|||Ayy looks great!! Thanks
+6|||was just able to download it. it's actually really good, it'll help me study alongside my physical scriptures in the morning so I hopefully won't fall asleep
+DATE 2026-05-28
+15|||Hey Ethan! This is Kat, I’m A-FRAME’s manager! Thank you so much for the follow back! We seriously love your content! Hopefully you can come to our shows this Fall semester! We try to keep almost all of them free for the other college students! We would love for you to come rock out with us!
+4|||Liked a message
+5|||Cutefluffycow12@gmail.com I love what your making and would love to be a tester
+4|||Liked a message
+3|||You’re doing so well keep it up, I’ve already recommended the app to all my friends
+4|||Reacted 💜 to your message
+6|||Awesome, loving it!
+5|||Hey, saw your video about your app! Could i send you my email for early access?
+3|||Yep!
+3|||Alright, me email is louielefoll@gmail.com
+1|||Alright, thank you so much!
+1|||Thank you so much I love the app already
+3|||Sounds good haha
+14|||Do you know if the clock for your daily streaks is linked to the local time or to Utah time?
+4|||This is amazing! | [link] https://www.instagram.com/stories/evan.builds.tether/3907464049139567913
+4|||Liked a message
+7|||Nathanhagen2010@gmail.com
+3|||Appreciate it man
+1|||Yooo thank you dude!
+34|||yo first of all i wanna say the app is 🔥 one suggestion i have is that duolingo has this feature where it blocks all of your distracting apps before you do a lesson and that has helped a lot so if you wanna add that in that would act be lit
+4|||Liked a message
+1|||hey! i just wanted to say i love your app! i just did a session on it, and i absolutely love it!
+2|||Hey I love your tether app idea! if you still need android testers here's my gmail laurynboyter@gmail.com
+DATE 2026-05-29
+4|||Reacted 🎉 to your message
+1|||I'm so excited for this app, it looks awesome, if you can't get it sent over no worries! I can wait avaasburry@gmail.com
+4|||Liked a message
+3|||That’s great!!! Take your time I can’t wait!
+21|||You I have the app but when it asks me to set up it says start at first Nephi 1:1 or somewhere else, so when I go to somewhere else it won’t let me select a chapter outside of 1 Nephi, is there a reason or is that a bug?
+7|||Gmail davimainardespix@gmail.com
+7|||jacob@zufelt.org
+7|||Jepsonkaiden@gmail.com
+8|||hey!! i’m super excited for tether! i’m a teen lds girl who uses manna (similar but for the bible) if you need any help or suggestions please please reach out!! i’m super hyped to watch tether grow and bring the joy of christ to more people!!
+11|||Ok ok so hear me out on your app tether you make it so you can have like a scripture on your home screen or like the chapter your on you something
+DATE 2026-05-30
+19|||Hello! I was just doing my reading today and I got to first Nephi 15 and it won’t let me scrolll or continue past the insight part of that chapter. Do you have any suggestions on what to do? I have deleted and reinstalled the app as well as closed and reopened it. I am at a loss and would appreciate a quick response please!
+1|||Thank you!!!
+4|||Liked a message
+19|||Dude this app is so cool and so clean! The only bug that I noticed, and take it with a large grain of salt because my phone isn't exactly working 100%, is when I click on the notification to go to the app it opens the app but stays on a white screen. Again not sure if it is my phone or not but that is the only thing I noticed. As for suggestions I have, I think the biggest one is getting it into other languages starting with the main mission ones like Spanish, Portuguese, and even mandarin Chinese so missionaries getting ready to go can start familiarizing themselves with the BOM in their language. Thanks for letting me try and I'm gonna keep on going!
+2|||Can I get the Android tester? My email is AliseBarrus14@gmail.com
+DATE 2026-05-31
+19|||I have an IPhone SE and here is the recording. When I get to the lesson and nothing happens I am scrolling up and down.
+19|||I just had a friend try, and they were also fine until chapter 15
+3|||I look forward to it!
+11|||Hey, the widgets look good dude
+7|||jpzaugg@gmail.com
+10|||You should make the XP be able to do something like purchasing badges ￼or ranks or something like that
+10|||Is there any way that you could make a website version of this? The app seems amazing but because of my parents I would only be able to use the website
+DATE 2026-06-01
+5|||Hello! I was just wondering what you had planned for the app in the future. Does it work how you always want it to or is there more features to come? And are you open to ideas?
+14|||Is it intended that the title is portrayed twice? It's combining parts of 3 Nephi and the entirety of 4 Nephi so i get it, but was wondering
+3|||And you're working on the last 4 chapters? Exciting!
+3|||Hey, bro. I really liked your app. Well, I am a member of the church just like you. The lord will blessed you and continue your journey, you can do it and never give up.
+2|||Hey, can i be on the testers for the android version of the app?
+7|||markkeyser09@gmail.com
+DATE 2026-06-02
+5|||Hey! Can i test the app before i go on my mission??
+9|||I need the android version 🙏🏻 emma.wegner@missionary.org
+19|||Hey Evan I got the tether app and am loving it but I am having trouble with 1st Nephi chapter 8 it won’t allow me to scroll down and click the continue bottom to read the verses is there something I can do to fix that?
+DATE 2026-06-03
+17|||Wow, those are some actually awesome ideas! Would a friend streak mean making accounts?
+3|||I will keep looking on my end, but I don’t see an update in the App Store and I still can’t read it
+14|||Just finished today’s reading. Seems good to me. How do I change dark mode and such? Is there a settings?
+4|||this will single handedly be the best update | [link] https://www.instagram.com/stories/evan.builds.tether/3910901316713055390
+14|||I'm like so silly my bad my guy. So if I put my email into the link I should get access right?
+2|||Can I be a tester for Android!?!? I would really appreciate it
+3|||Plz bro I don’t want to lose my streak
+DATE 2026-06-04
+16|||Also it would be cool if you could save some verses that you can come back to later to read and ponder on.
+3|||Sweet
+3|||Alright I think I did. I'm in the process of being baptised, soon soon and still coming onto reading the Book of Mormon, I find it hard sometimes and so this should be interesting to see how it aids me. Idk how many investigators you have using the app but I'm one of em 😅
+5|||My name is Alex and I want to get an early access to the app so here is my Gmail alexkorsah3@gmail.com
+16|||dude this app is awesome, it’s burning that fire in me to read again. but with that i’ve been using this app for my reading rather than the traditional scriptures app and since tether has questions to answer and stuff it makes me understand and read the verses in more depth and i learn things i didt know before. what i think would be awesome is if you found a way to add highlighting verses. you could just do it mid read and then at the bottom of home page there could be tabs where you add highlights and you could even add mistakes, where you can redo questions. i think this would be an amazing addition if possible and helps so many people. thanks man keep up the work love what your doing
+8|||Would it be possible to build a version to help read the Book of Mormon in different languages? I’ve been trying to read the Book of Mormon in Spanish for a while now but I struggle to get past first Nephi 1… I think reading a couple verses at a time with a quick comprehension quiz at the end would be such a big help and motivation and could really help lots of members, especially missionaries who are trying to understand the language better
+DATE 2026-06-05
+5|||I'd love to be a tester for your app Tether. My Gmail is hallcasey502@gmail.com
+7|||Fishersrpf@gmail.com pls I need this!!
+4|||(Tether)
+DATE 2026-06-06
+24|||So I’ve been using Tether for a little bit now. It’s AMAZING. However I have a proposal. I think a really cool feature would be the ability to have friends like Duolingo. That way you can send daily reminders and encourage them to read.
+12|||Please add a feature where you can click on a word and it will show pronunciation and how to say it! Please that’s a big reason I don’t read it, is I don’t know how to pronounce the words!
+12|||Or even a way where you could listen to the verses before answering the question, because many people struggle with reading.￼
+4|||I’m not trying to force anything I’m just trying to give suggestions that would make the app easier for people to use
+DATE 2026-06-07
+7|||Gmatwood07@gmail.com
+3|||Bro
+6|||You are the best
+1|||I really like your app
+8|||Maybe you can translate to Spanish. Some of my friends from the church. Told me it also should be Spanish. I know it takes time, I am currently studying software engineering. So, I understand
+3|||I know it tougher than it seems to be broo
+4|||There is scripture I have for you
+DATE 2026-06-08
+4|||Spanish!!!!! | [link] https://www.instagram.com/stories/evan.builds.tether/3915213797313402254
+8|||Are you thinking about making it for th bible and doctrine and covenants?
+6|||So far everything is working fine!
+31|||Also had an idea for an update. Could you make it so after you start reading from the Tether app if you decide to read from a hardcopy and then come back to the Tether app you don’t have to reread the things on the Tether app that you just did on the hardcopy?
+24|||I think just one thing I would say is maybe add some audio, and also i only get notifications after my streak has ended, would be nice to get a reminder before. And I think it would be cool to like challenge a freind and whoever gets the most xp in 2 days get some kind of prize in the app
+13|||And where apostraphes usually would be there are question marks
+3|||hey so i might’ve broken my streak on the app… is there a way i can restore it???
+8|||Hey! Have you thought about making the Book of Mormon Duolingo other languages too? Thatd be so helpful!
+8|||You should add languages so missionaries can use it to study
+2|||I am trying tobget added to the android early access, do you think its possible that you notify me when im added
+1|||Please and thank you😁
+36|||How can I get this app?! | [link] https://www.instagram.com/stories/evan.builds.tether/3915213797313402254
+17|||add a friends system bro! love the app
+17|||Add freinds and freind streaks
+2|||Also just wondering will the regular updates like saved verses come to android
+12|||You should add a way for it to read the verses out loud to you I think that would be awesome great app though
+DATE 2026-06-09
+6|||Yo I got an idea for ur app | [link] https://www.instagram.com/stories/evan.builds.tether/3915924625288199592
+24|||U should send so many more notifications
+4|||You should add preach my gospel to tether.For missionaries | [shared] You should add preach my gospel to tether.For missionaries
+7|||Sipesbo@gmail.com
+5|||Im interested in early testing
+9|||How long until tether is available on Android?
+8|||One suggestion I have is just eventually (cause I know this is still very new) but IF you ever had the time it would be cool if you could add like the pearl of great price or doc and covenants
+DATE 2026-06-10
+4|||austinwildeaz@gmail.com | [shared] austinwildeaz@gmail.com
+DATE 2026-06-11
+10|||Hi there! I love your app, it really helps but i had a little advice if you’re open to it; as someone who really struggles to understand the book of mormon, maybe include summaries after the questions? or notes to help understand more what someone is reading? idk just something to help us slow learners to understand easier. maybe visuals? idk just wanna help!
+19|||Hey, I downloaded tether and noticed on the setup screen where you can pick to start where you already are in the BoM, that the drop-down menu is kind of hidden and at the bottom of the screen. Here’s a screenshot. I’m on a iPhone 8, so it could just be that my screen is small. Just thought you might want to know.
+4|||https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA | [shared] https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA | [link] https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA
+DATE 2026-06-13
+3|||Hey i would like to test the book of mormon dulingo app for you
+7|||Xmclerran21@gmail.com
+
+VIDEOS
+VIDEO DY24X6mymnN
+DATE 2026-05-27
+18|||Bro this is peak, I’m not the best at reading but this helps me a lot to just read it but also have some dopamine haha
+14|||Is there anything that xp does, or is the number itself a reward
+12|||My oldest and I have been using your app together and we love it!! We both said we’d love some sort of chime or sound effect when you go up in xp and/or finish a chapter ❤️
+1|||I’m so hyped dude you’re my goat
+17|||Let’s goooooooo have you looked at the possibility of a friends system?
+32|||really appreciate what your doing. I’ve been recommending your app to some friends who are struggling to pick the book up. Keep it up🔥
+1|||This is so awesome! Keep it up 🔥
+DATE 2026-05-28
+1|||I love it!!!
+1|||Hey I just downloaded, its great! Keep up the work!
+2|||Can’t wait for this to be on android for my son!
+32|||You’re doing awesome! Totally sharing this with my nieces & nephews! 🔥
+1|||🔥
+1|||🔥🔥🔥
+DATE 2026-05-29
+9|||It's not on Google
+8|||Other languages please!! I want to practice my reading comprehension in French with the scriptures!
+DATE 2026-06-09
+2|||I really want to use it on my pixel (android)
+DATE 2026-06-11
+25|||I want the app to show my total days. Not start over every 7 days. I want to show I have been going for 14+. Days without missing
+VIDEO DY6GFyhylzl
+DATE 2026-05-29
+1|||Great job, Evan (& Evan’s mom!)
+2|||When does it come to android?
+1|||Gold brother 🔥🔥✌🏽
+27|||It’s missing Moroni 7-10
+2|||When is android?
+24|||Awesome! Any way you can add notification or have a come follow me scriptures
+1|||Ahhh so exciting!!
+8|||Is D&C in the works by chance??
+21|||Bro in wich language you put BOM in the app ??? Is available in other languages?
+1|||Bro this is AMAZING!🤩
+8|||This is genuis. You need to find a way to do this for other books too
+2|||Do you have for android?
+10|||🔥🔥🔥🔥🔥 Keep new things coming please!!🙏
+26|||Hey! The app is great. I’m using it and recommending it to everyone here in Uruguay 🇺🇾
+1|||You are killing it! 😍
+10|||Yessirrr this update is so peak! Cant wait for dark mode lol
+8|||I love your app!! I’m curious Will there ever be a Spanish version? I feel like I study well, but I want to use it to study for my mission, so I learn new phrases and I’m going Spanish speaking. 😅🙏
+10|||lwk really good, but I kinda want a dark mode
+DATE 2026-05-30
+2|||When does this come to the Google play store?
+2|||my friend just got baptised and she's struggling to read the scriptures daily and this would be perfect for her but she has an android
+2|||Please make it for Android
+8|||Following, hoping you add more languages soon ❤️. Great work
+1|||Honestly loving the app!
+8|||Love it! How about Spanish. This could be great for language learners!
+2|||I need this app for Android Man, help us!
+2|||Is it available on android?
+DATE 2026-05-31
+2|||DO IT FOR ANDROID TOOOOOOOOOOOOOOOOOO!! Brazilians need to use it toooo
+1|||Love this!
+2|||Would love to send you a DM so that I can help test on Android. Follow me so that I can send you my email.
+27|||It’s missing Jacob 4-7 and Moroni 7-10
+DATE 2026-06-01
+9|||On play store?
+12|||Can you make an audio option so we can listen to the scriptures?
+1|||I JUST DOWNLOADED ITTTTT
+1|||I am hyped
+DATE 2026-06-02
+36|||How can I find the app link?
+DATE 2026-06-03
+5|||ahhhh i need this
+DATE 2026-06-04
+33|||I can’t download it
+DATE 2026-06-09
+8|||Can we also get a bible additional sometime (that’s probably going to be really long and hard but yea lol)
+DATE 2026-06-10
+1|||Love it!!!
+DATE 2026-06-12
+8|||Old Testament next?
+VIDEO DYLoQ6GyiW7
+DATE 2026-05-19
+2|||Add to android
+DATE 2026-06-01
+3|||I’m in this process right with my own build ❤️
+VIDEO DYdrJL_yAuD
+DATE 2026-05-18
+2|||Me! I have an android and will try it!!!
+1|||Wait this is so cool
+1|||This is awesome. You should DM me, I have some questions.
+9|||Is it available in Google Play store for Android?
+1|||This is sick!!
+1|||THANK YOU THIS WILL BE SO HELPFUL FOR THE MISH
+1|||this is LIFE CHANGING
+1|||This is awesome brother
+3|||Jk I love you pookie
+1|||This is so cool!!!
+1|||Wait this is tough!! 🔥
+3|||Bros about to start telling people "download the tether app" instead of handing out BoM on his mission 😭
+DATE 2026-05-19
+16|||Looks great. Did a few sessions. One feature to add in the future could be a favorite verse/passage library where people highlight their favorite verses and it’s stored in a single tab. Like a wall of wisdom
+5|||Let me test please
+5|||And me!
+2|||I'll be an android tester! This seems great for me!
+1|||I ABSOLUTELY LOVE IT EVAN
+1|||I am so so hyped for this
+2|||Is it avaliable on android?
+9|||Noo is it only available in the US?
+1|||Ok this is awesome. I love this so much. This is exactly what I need.
+1|||I just went and tried it but it wouldn’t let me leave a review in the App Store! This app is already so cool and I can’t wait to see how it will grow!! This would be such an effective tool for missionaries to give people learning about the church, who are reading it for the first time! I hope someday you could add extra connections, like the interpretations/why a teaching or theme is important
+1|||Dude this is tough you are doing Gods work way to go!!!
+5|||Im happy to be one of the 12 testers!
+5|||I'll be on that list of 12 testers!
+5|||Send me the info I will test it for you
+6|||Beautiful man
+2|||I'll test for Android!!
+11|||this is so helpful, i just wish it had a widget that you could make like duolingo showing your streak so it’s right in your face
+DATE 2026-05-20
+5|||I can help test!
+8|||When will you add more? 🔥
+1|||Just downloaded! Dismissing on my kids phones tonight!! 👏👏
+2|||I'll dl it as soon as it's on Android
+9|||Can we get an android version
+3|||My brother @thewhitemeerkat
+22|||For someone like me I would love this!! If you need help let me know happy to help.
+1|||Trying it out
+1|||Downloaded the app! This is such an awesome idea
+1|||Keep up God’s work!!
+2|||I need it, but on the Android Play Store please
+8|||Let's go 🎉 and in other language like french or spanish too?
+5|||I'll be a tester!
+2|||I can add 3 family members besides myself for Google playstore let me know ..... all based in South Africa 🇿🇦
+1|||Downloaded🙂
+1|||This is sweet
+15|||Hey man! Follow me back so I can message you! I have some connections with LDS influencers that may love your app…
+1|||Immediate download ✅
+5|||Pick meeeee
+2|||Would love to try it when it's available on Google Play.🔥
+1|||Just downloaded it. I’m willing to give it a shot. Always looking for new ways to engage with the scriptures and retain what I’ve read. Thanks for putting in the work.
+1|||Ok, this is actually wonderful
+2|||I’ve got an android and could help!
+15|||I dont see the link in your bio?
+6|||Wait this is SO AWESOME
+1|||I downloaded it and tried to start with Nephi 1:1 and it won’t let me scroll and read on my phone! Please fix it! I’d like to use this app
+1|||This is lit
+10|||I need one for Android!!!
+1|||I love this!!!
+1|||Wait- this changes the game!!
+6|||Got it!! Excited to give it a try!
+3|||@drewscarbrough_
+3|||@ryanjakesanford
+3|||@thesurefoundation
+3|||@thisweeksgrace
+3|||Wait wait this is actually so freaking cool
+1|||Never downloaded an app so quickly
+3|||@maliavyates @jeffrey.merrell Yoo this looks pretty sick
+3|||@savanna.c.jones
+1|||What an amazing idea! I love it!
+9|||Sadly not available in Germany. Wanted to give it a try...
+6|||Congrats on building something so powerful. Day one complete, excited to see how long I can go.
+14|||I love the app concept brother! How did you get approved on the App Store so quickly??
+1|||Just got it! This is epic!!!
+1|||Just downloaded it 🔥
+2|||Can't find it on android 🫤
+5|||I can test
+1|||This is awesome! Hopefully it will help me be more consistent 🫡
+2|||Brother i'm on android!
+9|||No android?!?!?!?!??!? Only for iPhone???????? 😭😭😭
+12|||I have a very dyslexic son, I think this would be great for him to stay focused but does it have audio read along ?
+3|||@maxwell.hunter64 no one cares
+2|||Would love to help test for Android!
+20|||Can’t find it on the app store
+1|||This is awesome!
+23|||This is literally something I thought of the other day— like I can keep my streak on Duolingo but not on the gospel library app 😭 this is perfect 👌
+1|||I’ve really enjoyed reading it this way. Makes it easier. Thank you!!
+1|||This is fantastic, I absolutely love the concept and execution!! It makes my day that this exists!!!
+9|||Update me when the android version is live!
+29|||It says that the link can’t be opened
+2|||Android build?
+9|||When will it be available to non ios users?
+10|||Please make it available for android!
+2|||Me! I'll be an Android tester.
+5|||Mememee 🙋‍♂️🙋‍♂️🙋‍♂️
+10|||I did the first session last night! I like it a lot. One thing I would love to see added is a journal option. Maybe it could have bonus XP if you do it but not being required?
+14|||I LOVE it!! Can I ask why the name “Tether”?
+3|||I gotchu!
+10|||Please make this for Samsung tooo!
+1|||This is awesome! Nice work dude
+1|||WHAT!? This is rad 🔥
+1|||Wait this is so cool. Just downloaded it and love it ❤️❤️❤️
+DATE 2026-05-21
+1|||This is awesome EVAN!!! Downloaded and loving it
+1|||Actually LOVE
+1|||this is great - thank you!
+3|||Out of curiosity, how has building the app changed you and brought you closer to Christ? I’m genuinely curious bc you’ve built something that’s meant to help teach people, and as a teacher you tend to learn the most.
+1|||Love this. Downloaded
+1|||This is dope
+21|||You should make it available to choose where you are anywhere in the Book of Mormon. It only allowed 1 Nephi and choosing a chapter. I am in Mosiah but wanted to try the app.
+2|||I want this for android!
+1|||Just downloaded it and did my first day. Such a cool idea!!
+2|||Please add this for Android users!! This is awesome!! Can't wait to try
+10|||pls add to Google paly store
+22|||Hey boss I’m really good with coding and Claude code and app/web development. I’d love to see if I can help for free I really love and support this idea
+26|||Dude this is fantastic. I got it and love it. Is there any way we can help? Like a kickstarter or something? Marketing team? Anything? This is lit and I would love to help out if I can
+1|||This is terrific. DM me bro.
+3|||Bro
+2|||I want to try it but I don't have apple
+1|||This is awesome!😳👏
+2|||Not for android 🤯
+3|||@kade_gerv3 just downloaded it this app will def help me
+8|||You should also do the Bible and pearl of great price and dnc
+3|||👍
+3|||@hallie._.valdez the adhd won for a second there😂
+28|||would literally marry this man right now
+12|||I love this. I just downloaded it one great feature that you should do is make it audio. I have a very hard time reading and this would be amazing,
+1|||I’ve been saying I want Duolingo for scriptures for years, this is amazing. I just tried it, it’s awesome.
+9|||When is it coming to Android and other users?
+3|||@mirissa.egan came for this
+3|||A word on the start of the app, technically the title page and the Heading of the book of 1st Nephi are part of the actual text of the book, you might consider having the reader start there. Or not. Up to you!
+3|||I had people download the official book or Mormon app all the time
+8|||I like the fact check questions, my suggestion is you can also add some thought provoking questions, maybe even pull them straight from the come follow me booklet to get more spirit filled and have a text box for an open answer
+1|||Overall I love the app though!!
+9|||Not available in Spain 😥
+10|||Android please do it for android
+1|||Downloaded it ❤️
+10|||BRO RELEASE THE FILES TO ANDROID, UR BRAZILLIAN FANS ARE GOING CRAZY
+3|||Let me know!!
+3|||@zkshaeffer wow zane. what a take! i agree with u so much. great thinking zane!
+1|||Downloaded it !!! Very cool . Now you can tell everyone you have your first user from Cape Town South Africa!
+2|||someone bring me back when he gets it out on Android
+1|||Love this!
+8|||You should make it for the old and New Testament and d&c as well!
+DATE 2026-05-22
+1|||Great job! Bom trabalho!
+5|||I would love to be a tester too!!!
+5|||May I join the tester app
+1|||Just downloaded hellooo
+15|||I can't send you a message because you're not following me
+5|||I would love to test it!
+3|||@evan.builds.tether it’s still not letting me message you! I have no clue why
+12|||I just got it! I’m already obsessed but a suggestion is an audio kind of thing because sometimes listening to it makes it so much easier and sometimes the actual reading is what stops me from doing it. It’d also be nice if there’s other language options for people preparing to go on a mission.
+7|||Sent email
+1|||I didn't. I'd love a DM, thank you!
+38|||No you are following a false prophet and a false Jesus who can’t save you
+1|||This is awesome!🔥
+15|||You don't follow me so I can't send you a message!!!
+6|||That’s awesome!!
+5|||I would love to test it!!
+22|||HMU if you need anything I’m happy to help in any way I can
+1|||I was just thinking about this! Great idea.
+5|||Yes, please
+1|||I saw this reel and went to download it asap!
+15|||Hey, can't seem to DM you but id love to try out the app on android🔥
+2|||I'd love to do some testing for android users!
+2|||Hey man, amazing work with Tether! I'd love to try it on Android 🙏🏻🇧🇷
+5|||I’m going to get the app.
+2|||I want to test in android
+5|||Would love to test it!
+1|||this is actually the best thing ever!!!
+1|||I JUST DOWNLOADED IT ITS SO COOL!
+1|||Holy tuff
+14|||Do you have to pay for it?
+2|||Hi! I can get the app for Android? I'm am preparing for my mission and i think your app would give a big help for my preparation
+1|||Wonderful! Thank you!
+2|||This is amazing! Can't wait til it's available for Android!
+1|||Love this
+1|||This is awesome I’m downloading rn such a great idea
+10|||Please for Google play store 🙏🏻
+2|||I would love this on my android! This looks awesome
+1|||Perfect 😃
+DATE 2026-05-23
+14|||It doesn’t use gen AI right?👉🏻👈🏻
+10|||Bro I need it on Google Play please
+6|||🔥
+1|||Awesome just downloaded it
+1|||Awesome idea! I would love to download it from the German App Store 🙏
+15|||I want test it!! But I can't dm you...
+10|||Can you make it for Android
+3|||ur lit for this bro 😎
+5|||I want it.
+3|||Please 🥺 I don't know how to look at a bio
+5|||Wouldn't let me message you, would love to try it out ♥️
+3|||hey, I DMed you😁
+2|||Can i get the android link?!
+5|||I WOULD LOVEEE TO TEST IT♡
+DATE 2026-05-24
+14|||Did you get permission from the church to use the scriptures like this? The church owns the book you know
+3|||Bro get this hyped up and everywhere, we need this bro
+2|||Can't wait for the android app!
+24|||It needs a daily reminder. Can you add that?
+15|||I want to test please! Can't DM
+2|||I would love it. I have android.
+5|||I would love to test it
+2|||Early access for android? 🥺
+25|||could you add a streak thing that is as persistent as duolingo
+1|||Wow this looks awesome!!! Thank you!!
+16|||Highlighting would be awesome!
+35|||This is amazing! I really am looking forward to seeing the rest of the scriptures as well as social features so that I can have competitions with my family.
+9|||I want the English, but it doesn’t even exist to download att all in my country (Sweden) 😢 leaving om my mission in 2 months it would be helpful!
+1|||I love it, however, one thing is that I can’t choose what book I want to read from when I open the app for the first time. Is that on purpose? Thanks so much! This app is so cool
+DATE 2026-05-25
+10|||i beg you... I BEG YOU... ill follow you ill LIKE EVERY REEL YOU EVER PUBLISHED JUST PLEASE PUT IT ON THE FLIPPIGIDINGING PLAY STORE... i need it... please brother this is exactly what i need man PLEASE JUST THINK ABOUT IT. i would get an iphone just to use it everyday but im broke as... im just broke. just please put it on the play store; ill give it a 5 star rating 🤑🤑🤑🤑
+26|||You should see if you can have missionaries use it as well during there mission to stay quizzed up in there studies
+5|||I would love to test it.
+6|||this is what modern tools can be used for (dont know if you used ai to help in the process ) as well as your background of coding features. Way to use your mind for ideas.
+6|||This is so sick
+5|||I also would love to test it!!
+21|||Cool idea! I downloaded it - when I tried to start at a different point, though, it wouldn’t let me change from 1st nephi. Just FYI! Can’t wait to show this to my son
+1|||What a great idea! Way to go
+10|||Need on Android!
+2|||We need this on android! Great job dude, you really are doing gods work
+8|||Once you’ve finished adding all the bom verses, you should do like duo with the different subjects and add the Bible.
+DATE 2026-05-26
+5|||If you still need testers, I'm down!
+8|||You should put The new and Old Testaments on it as well as D&C
+1|||OH MY GOODNESS I ABSOLUTELY LOVE THIS THIS IS GENIUS AND AN AMAZING IDEA
+10|||EVAAAAN, BRING TETHER TO ANDOIDDD, AND MY LIFE IS YOURS!!!
+2|||I would love to test it on Android. bimmerut@gmail.com
+DATE 2026-05-27
+1|||I’ve never downloaded an app faster
+1|||Downloaded!
+6|||Would love to download it. Please DM me the link.
+5|||Please, I would like to text that!
+DATE 2026-05-28
+1|||Wait I love this.
+6|||Id love to try it!!
+DATE 2026-05-29
+2|||This is awesome! I cant wait until I can get it on android! Maybe you can do the Bible next?
+6|||Dm me!
+2|||Hello my G, Do you have one for Google Play store?
+8|||This would be amazing for Come Follow Me!!! I’m good when it’s the Book of Mormon year because it goes in order but as soon as it starts skipping around in different books/chapters on the other years, I’m out. 😳
+9|||Is there an android version?
+15|||They won't let anyone send you a message since you don't follow us!
+15|||Hey I would like the app (I have an android). Tried to DM you but I would not let me
+DATE 2026-05-30
+1|||This is literally the coolest thing I just downloaded it
+2|||Would love to test this on Android. Send me a DM!
+3|||@evan.builds.tether I would love to test it!
+8|||please do it in another languages, like portuguese, spanish… 🙏
+DATE 2026-05-31
+1|||Was able to Download in Alberta Canada!
+2|||Let me know when the app is available for android
+8|||Brooo, this is one of the best ideas and gratest apps I’ve seen, It’s helping me a lot to be constant in learning more about my savior and getting closer to him, but since you finished the book of Mormon, we need doctrine and covenants plsssss 🙏🏻🙏🏻🙏🏻
+5|||I would love to test it!!!
+DATE 2026-06-01
+1|||This app is so amazing!!! It’s already helped me stay consistent with my study!
+1|||Evan, this is awesome!! Sister Mason
+16|||Just started! This has made reading so much easier. Would love a version of this for CFM chapters for each week. :) even if it is just the chapters within the scriptures for each week. Also shared this with my siblings and parents. Definitely agree with others about being able to mark verses, would be cool if we could have it connect with our LDS account for the app, so any highlighted verses can come up on our LDS app scriptures. :)
+1|||Downloading now!👏
+1|||I’m genuinely so excited to read this I downloaded it right away
+1|||this is going to be so helpful!!! 🙏🏼
+DATE 2026-06-02
+9|||Is the app out yet??
+9|||apple?
+DATE 2026-06-03
+2|||I have an android and I need this so bad
+DATE 2026-06-04
+1|||I love this app!
+1|||Oh my gosh! Game changer!
+20|||Is this up? Can't find it
+DATE 2026-06-05
+1|||Is there a way to change languages? It would be so cool to be able to do the study in whatever your mission language was! Even if the questions are still in English
+5|||I want it
+1|||This actually goes crazy
+5|||We want it! Send it over!
+2|||I would like the Android version as a tester or when it is finished. We are starting a family challenge.
+DATE 2026-06-06
+1|||This is goated
+1|||Wait I love this! Just downloaded it!!!❤️
+1|||Dude that's so legit!
+DATE 2026-06-07
+8|||I would like to try this app. You should make one for the Bible, D&C, etc haha
+9|||When does it come out on google play
+1|||I love this!! When does it come out of testing and go live for everyone?
+1|||I have it!!
+DATE 2026-06-08
+6|||I want to test!
+3|||When my 12 year old comes to me and says, "I WANT THIS!" Looking forward to it!
+1|||just downloaded it!!
+2|||I can't find it on Google play?
+DATE 2026-06-09
+20|||I don’t see tether in App Store
+17|||Just saw this and downloaded and did one session! Awesome idea! I would love to have the connection with friends like Duolingo has too!
+1|||Just downloaded it it’s amazing
+DATE 2026-06-10
+2|||Dude I really want to use it, but I have a pixel phone.
+1|||This app looks amazing! I signed up to be a tester on the website!
+1|||I just downloaded it thank you
+1|||This is so impressive! Great job on this!!
+DATE 2026-06-11
+2|||Can't find it in the android app store 😢
+5|||I would totally love to test it
+14|||Are there in app purchases?
+2|||Still need Android testers or..?
+DATE 2026-06-12
+6|||Thanks you saving many souls and please make it proper for iPad too thanks!
+3|||Heck ya brother, add me to it!!
+DATE 2026-06-14
+15|||There’s no link
+VIDEO DYgEBAIyQow
+DATE 2026-05-19
+2|||Available for android?
+2|||Android please! (I'll be a tester if needed)
+1|||Just got it it’s so nice
+2|||just waiting till it's Available for Android! :)
+8|||I love it! Please put more chapters! It would be great if we could get it in different languages too and also maybe side by side with English! I’m trying to learn the verses in Spanish! This is awesome!
+18|||I cant wait to try it! This is an amazing idea for missionaries!!!
+1|||Hey dude way to go. This is tough and you are doing the lords work
+2|||Nany More church members use android than iOS, please port to android.
+10|||Love it! I’m sure you already had this planned, but it’d be great if the comprehension questions also focused on core doctrines and principles of the gospel when they come up in the verses, rather than just facts of the situation. It keeps the focus on the purpose and message, not only the events that occur. It would be cool if those parts were highlighted after the answer is revealed, referencing the parts of the verse which provided the answer. Keep up the great work! This is legendary🔥
+2|||i just need it on the google play store
+DATE 2026-05-20
+22|||CHECK YOUR DMS I HAVE SOMETHING!!!! ❤️
+11|||Love this app! A widgets would be cool so you can remember your streak
+10|||Love love love! Keep up the great work and keep building out those chapters! Maybe you could add questions or quiz on overall doctrine from each book. Also it would be fun to have a place to put personal notes or inspiration as you build and learn across the BOM
+1|||BRILLIANT.
+2|||This sounds so hype!!!! I'm also on Android, so looking forward to when that comes out 😉 keep it up man!
+2|||Do it for android phones
+DATE 2026-05-21
+1|||this is so genius fr
+8|||Do you have Persian? No one really does and I want the spirit in my studies
+8|||This is awesome!! Got through my first day and this is dope! Don’t stop getting more chapters and fun out there.
+12|||An amazing nap I love it. You should make an audio as well. That will be so much better. I have a hard time reading that would be amazing
+11|||I got a suggestion for your app. You should make it so it can turn into a widget so it is always on my home screen. Just a suggestion, and I love the app by the way great idea ￼￼
+8|||On Duolingo there’s different things you can learn (different languages, math, music, chess) so I think being able to have the choice to read all the different books not just the BOM. Would be a great addition to the app!
+2|||Android avalibility?
+DATE 2026-05-22
+32|||Bro I sent it to everyone
+2|||Android please. I'll test
+2|||can you let me beta test on playstore it says I can't message you
+9|||Waiting until it’s available in Germany 😍 even if it’s in English!
+DATE 2026-05-23
+8|||Just waiting for more chapters! It works great!
+1|||This is actually so cool! Instant download and follow
+DATE 2026-05-24
+16|||I know a lot of people have suggestions, but when you can, can you make it where you can highlight the verses? It helps me, and im sure it helps others relate and find things in the scriptures that can connect us to God more because we are searching for them
+31|||Yesss!!! It’s amazing I go through 2 little lessons a day and it’s amazing, if there was a way to go back to one section out of the lesson without having to go through the whole lesson would be killer!
+DATE 2026-05-28
+11|||Hey I just used the app today! It was great! I think what would also be great in the future would be adding an option for a widget that you can put on your home screen similar to Duolingo, but also eventually adding the bible and doctrine and covenants as well as the pearl of great price. I think that would be wonderful. It is a wonderful app and a fantastic idea! Keep up the great work!!
+DATE 2026-05-29
+21|||Is it in the Spanish language as well ??
+DATE 2026-06-02
+3|||I did bro
+DATE 2026-06-04
+12|||Brochacho if it could read it for me would be legit! Like duo
+VIDEO DYlqlory1sY
+DATE 2026-05-21
+5|||I will test this
+2|||I'd love to dm to get on list for early Android access, but it won't let me dm☹️
+5|||i love this idea book of mormon duolingo I'd love to be a early tester have been wanting for something like this! so excited
+4|||Please flee your false prophet and the false Jesus that can’t save you
+11|||Love it! You should add a widget so we can see our streak straight from our home screens
+5|||I need you to send me a message!!!!
+5|||I want to test
+5|||I'll be a tester
+5|||I'd love to try it!!!!!!
+3|||I sent a DM!
+3|||@ryanpnielsen mee too
+5|||Follow me back I can't DM unless you can't follow me
+5|||I would love to try this
+1|||Thank you!
+5|||Would love to test your app. Please follow me back
+3|||I sent a message ☺️
+5|||Follow me back so I can DM you
+1|||This is awesome! 😍
+1|||This is so cool!
+DATE 2026-05-22
+5|||I want this!!! Follow me back!! Plsss
+5|||Me, me, I'd love this app!!
+4|||Dido
+5|||Can you follow me back I'm not sure if it sent the message since you aren't following me
+5|||I'd love to test it! Is there maybe a setting you could change so anyone following you could send a message?
+10|||Do a dark mode pls
+20|||LOVE this idea! I downloaded it this morning. I wasn’t able to start where I was in Alma though? It could be user error because I could change my chapter but not the book 🫣 but either way I’m excited to share this with friends!
+1|||Oh I’m glad it wasn’t user error 🫣😂 I can’t wait for you to add more! This is such an exciting thing! Don’t even apologize!
+3|||Follow back
+5|||I would love to help test tether!!
+1|||Sent a DM. this is an awesome idea
+DATE 2026-05-23
+5|||I want to be a tester
+3|||@easton_cattaneo yessss i agreee
+35|||Yo you should add like a way i can compete with other people… like the leaderboard on duolingo
+30|||I'm New here. How is this different from Embark?
+2|||I would love to be an android tester. Sloosle@gmail.com
+2|||Could you send me please I'm using an Android : taylorsonny27@gmail.com
+DATE 2026-05-25
+2|||Hi! Can't DM you unless you follow me. I would love to test it on Android. (I'm Brazilian btw)
+5|||Ready to test! Add me 😊
+DATE 2026-05-27
+5|||I would love to test your app as well!!
+DATE 2026-05-28
+5|||I would love to try it!
+DATE 2026-05-30
+5|||Id love to try it out could you follow me back so I could send you my email?
+9|||Is it available in Canada? We are all iPhone users, but I’m not sure what to look for.
+5|||I want it!
+DATE 2026-06-01
+5|||Please, add me to the tester list!
+DATE 2026-06-03
+8|||Can you include PMG and other scriptures?
+VIDEO DYs-uCVSADi
+DATE 2026-05-24
+2|||I'd like to try Android but it won't let me dm you unless your account follows me
+17|||You should make it so we can do it with friends
+12|||I’ve been using it the past couple of days and love it but I’d love to be able to follow along as it’s being read to me as my ADHD makes it hard to focus on what I’m reading and it would be soo cool if we could mark it up in this app also!!
+2|||I'll help out with android
+25|||I started this like 5 days ago it was going good until I didn’t have internet for the whole day and lost my streak. And it kinda got me unmotivated. Maybe you should add a streak saver or something like that.
+2|||I’d love to try it on Android 🙏🏻🇧🇷
+18|||It helps!
+1|||I feel like this will be interesting
+30|||It says you can't message the account unless it follows you
+4|||Try reading the bible
+20|||Hey, I want to start on 2 nephi but it won’t let me, and there’s no way to go back. I’m cool with it. Just thought you should know. It’s amazing though! You are doing great things
+5|||Follow me please 🙏 would love to test!!!
+1|||We gotta check this out!
+11|||Good app but widgets would be nice
+1|||I love this app!!! 🔥
+DATE 2026-05-25
+2|||Google Play please
+1|||You’re a mastermind 👏
+18|||I absolutely LOVE this! The questions following in every few verses have made such a difference for me. I’ve read these chapters countless times, but this is the most engaged I’ve ever felt with the details.
+DATE 2026-05-26
+6|||Excellent. Just don’t make it look too much like Duolingo. No, there’s no hard and fast rule; trade dress is subjective—because once you get a letter from Duolingo, it will be one-sided. So if a drunk person who can’t read and has bad eyes could possibly be confused, tweak it. That will keep that letter away. Just sayin’ that’s honestly a pretty good legal rule of thumb to go by.
+8|||I absolutely love this app. I’m really excited for the next chapters to come out. My only question is will you be making a D&C section. I absolutely love the doctrine and covenants
+DATE 2026-05-27
+2|||I would love to try this on android. What a great idea!
+DATE 2026-05-28
+1|||👏👏
+14|||Hey I’m just wondering what the app actually is… do I just like fill in the blanks? “And my father ____” like that?
+1|||This is so amazing thank you so much ❤️❤️❤️❤️❤️❤️🔥🔥🔥🔥🔥
+DATE 2026-05-29
+3|||Done!
+18|||@sethgaleshredz it gives you questions over what you read, more like “ what did ____ ask ___ to do??” which I love! I really helps at least me really pay attention to what is going on in every verse
+1|||Ohhh ok that’s awesome
+DATE 2026-06-08
+18|||w app, its very smooth and encourages you to keep studying
+DATE 2026-06-09
+1|||Awesome idea man🔥 also nice hang board
+VIDEO DZA5dIivMv9
+DATE 2026-05-31
+1|||Awesome!!
+1|||🔥🔥
+2|||When will this app come to Android?
+DATE 2026-06-01
+16|||Add annotations
+2|||Gasp I need this for android pleaseeeee
+8|||So Ik that the BOM is on the app but wutabout the bible and D&C could you add those too
+3|||I wish I could show you my little box on my screen right now ❤️
+2|||Can we get this on Android
+1|||Awesome man!
+DATE 2026-06-02
+14|||Can you make a tutorial on how to add the widget to your phone screen cuz I can’t figure it out
+DATE 2026-06-03
+23|||Dude, this is fricken sick. I wonder if it’s possible to add a button to leave to gospel library in the same place for more in depth study. Other than that this is an amazing app
+13|||Hey man just wanted to let you know that 3 nephi 27-4 nephi 1 is labeled incorrectly on the timeline. I would dm you a screenshot but you don’t follow me so I can’t message you lol but shoot me a dm if you want to see because it might be just my end
+DATE 2026-06-05
+8|||Will it be available in every language?
+DATE 2026-06-08
+3|||@markcark2025 yes please 🥺
+DATE 2026-06-09
+3|||Guys that was me 🥹
+VIDEO DZI0cZgy9xl
+DATE 2026-06-03
+6|||Name
+1|||just gave it a whirl, im hooked!!
+4|||yup
+30|||Is it free
+2|||I am looking forward to this app coming to Android 🔥
+DATE 2026-06-04
+4|||Cults going digital is crasy lol
+2|||Please send to me for android testing!!!!?!?!
+23|||Yo this app is fricken amazing. Carrying through FSY. I was wondering if you could add like a button where it takes you to the gospel library app in the same place for further study??
+13|||This is wrong
+5|||can i get it please????🙏
+4|||@a10.ben tether
+14|||How do you change it to dark mode?
+DATE 2026-06-05
+34|||one thing duolingo has now is a way to block your social media apps until you do your lesson, does your app have smth like that/would you ever add that capability? 👀👀
+23|||Could there be anyway to link it so that you could high light on your app and have it translate onto the gospel library app? I think it would be neat if they worked together so as you read you can mark it with out having to find it on gospel library. Love the app!
+DATE 2026-06-11
+5|||Can I test!?
+DATE 2026-06-13
+1|||Awesome
+VIDEO DZVoD5KyCP-
+DATE 2026-06-08
+33|||I couldn't find it in the play store... 😭😭😭
+17|||I’m wondering… what can I do with my XP? I’m loving the gamification but I want to be able to share with a friend or challenge someone to a read-a-thon… idk
+1|||Great work 🙌
+8|||I’m sure you’re planning on it, but eventually different languages would be awesome!
+3|||@_bon_fish_ I went to the link in his bio and i put my email in and got added to the early access, try that maybe?
+17|||@bre.influenced oooh that would be awesome!! Being able to challenge other people!!
+1|||I just got added to the early access!! (I think) I'll report back if I find anything else it needs!
+3|||Uhhh there is actually a wave to save verses in the lds library app… you can book mark it and save it to journal and you can make as many journals as you want… additionally there’s a collection of annotations you make as well….
+DATE 2026-06-09
+10|||It would be cool if there were achievements! This might be really hard but having more BoM related figures, like an image for each chapter or book with the Duolingo style drawing.
+1|||Thank you!!
+1|||Love this! Great ideas
+2|||Make It in android
+3|||@hollylulita there is a link in his bio to find more information on that
+1|||I LOVE the saved verses!!!
+2|||It's available for Android?
+3|||@hollylulita not yet it’s currently only on apples App Store
+1|||Your app is awesome
+3|||Yeah but this is a totally different app.
+8|||Honestly I would love if you also made one for the other scriptures such as the Bible or d&c
+11|||Could we have widgets and if possible can we also have the doctrine and covenants in a later version 🙌
+11|||On the widget. Can you make the blue when you haven’t read and the orange when you have read?
+8|||Other languages please!!🙏🙏 I specifically would LOVE French
+2|||So when is the android one coming again
+DATE 2026-06-10
+16|||You should be able to write why that verse stood out to you
+DATE 2026-06-11
+17|||A friend feature
+29|||I can’t open the download page in the Apple App Store of tether
+1|||I just got the app and it is the best
+DATE 2026-06-12
+31|||The Android Demo Version is SO cool. I think this might be my new favorite study app, second only to the gospel library. I have some suggestions though - a way to go back and read previous blocks again - A button sends you to the current verse in the Gospel Library for pausing reading. - If this app succeeds, it would be cool to have a rewards system where XP could be used to collect characters cards from chapters. That'd be really enticing with my ADHD 😂
+DATE 2026-06-13
+23|||One question, does it link to your Gospel Library? I think it would fit in well, and you could use the streak too
+DATE 2026-06-14
+16|||This is so awesome!!! 🙌 Notes or comments should come next, or some way where you can go back to verses you’ve already read
+VIDEO DZYJJ-iBCVM
+DATE 2026-06-09
+1|||Let's go! As one of the beta testers, I'm excited that my family and friends will be able to download it!
+4|||Read the word of God, not the word of men
+18|||It is a good app already in my opinion (Being one of the testers on Android) and it's still in early stages. I hope it will get approved for the Android Appstore because this app can and will generally help to know the Book of Mormon more, investigators, Members or even just people curious of what this book contains. God bless you all, and I can't wait to see this app develop more and more.
+3|||@ed_onysh that’s funny
+DATE 2026-06-10
+22|||Hey dude, love this. You got way I can support this?
+28|||@king_cartographer2.0 a testament of Jesus Christ?😂😂
+1|||🙏🙏🙏
+9|||Any update here?
+3|||@ed_onysh The Book of Mormon is another Testament of Jesus Christ along with The Bible
+18|||Thank you! I’m struggling to read it
+9|||It's been 24 hours? Any word?
+1|||oh I've already been using it... so hopefully they don't take it away from me 😂
+DATE 2026-06-11
+20|||@traven.coriell how tho im stuck on the updates page
+9|||Any updates?
+8|||Es un desafío que realmente quiero hacer!!! Espero Evan que pronto lo puedas lanzar en diferentes idiomas, la traducción oficial del libro ya está hecha, espero con ansias que lances pronto la app en español, con mi familia nos divertimos con la app. Un abrazo Evan!!!
+25|||I want the app to show my total days. Not start over every 7 days. I want to show I have been going for 14+. Days without missing
+3|||oh I'm on of the testers.
+DATE 2026-06-12
+8|||I love this app idea. May I suggest an addition? It would be really cool if you could pick which book of scripture you want to track, like switching from the BOM to the Bible or POGP. This would be such a good study help with the come follow me material to stay on track and would be really cool.
+2|||I can help I have Android
+DATE 2026-06-14
+5|||Dang! Anyway I can test it out? I am going on a mission and it would be so awesome to use it before it
+1|||🙌

@@ -1,0 +1,3 @@
+display_name: Feedback Classifier
+short_description: Label ordered feedback lines as category|subcategory for merge-back.
+default_prompt: Classify output/pending_codex_input.txt into output/codex_labels.txt using one category|subcategory line per input line and preserve exact order.

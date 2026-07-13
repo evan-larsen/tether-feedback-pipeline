@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Eli Storrer"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eli Storrer",
+      "timestamp_ms": 1779550568662,
+      "content": "Thank you so much! I'm really excited",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779550549107,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eli Storrer",
+      "timestamp_ms": 1779516746207,
+      "content": "eliwilliamstorrer@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498564625,
+      "content": "otherwise it'll be available normally in 14 days when Google lets me make the app public",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498552708,
+      "content": "Google makes me add your gmail for it to work haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498540045,
+      "content": "Awesome! If you want to send me your gmail I can get you added onto the tester list",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eli Storrer",
+      "timestamp_ms": 1779493460990,
+      "content": "Yo I'm an android and wanna test your app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eli Storrer",
+  "is_still_participant": true,
+  "thread_path": "inbox/elistorrer_4584154488576835",
+  "magic_words": [
+    
+  ]
+}

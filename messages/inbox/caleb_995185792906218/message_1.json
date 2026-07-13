@@ -1,0 +1,110 @@
+{
+  "participants": [
+    {
+      "name": "caleb"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780519447867,
+      "content": "it just got approved this morning by Apple so you can go update it right now actually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780519424484,
+      "content": "hahahah I gotchu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1780512408261,
+      "content": "this will single handedly be the best update",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3910901316713055390"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674556821,
+      "content": "Yes I really want to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1779593883105,
+      "content": "can you also add a audio like duo",
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3903775473101088606"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1779516971898,
+      "content": "so excited",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1779516968370,
+      "content": "thanks ill try a few leasons",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779468979644,
+      "content": "Perfect thank you! I've got you added :D\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I've got you added :D\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1779415887207,
+      "content": "calebmcritchie@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "caleb",
+      "timestamp_ms": 1779415883008,
+      "content": "hey email for the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "caleb",
+  "is_still_participant": true,
+  "thread_path": "inbox/caleb_995185792906218",
+  "magic_words": [
+    
+  ]
+}

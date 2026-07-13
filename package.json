@@ -1,0 +1,8 @@
+{
+  "name": "insta-dms-simplifer",
+  "private": true,
+  "scripts": {
+    "server": "python save_instagram_comments_server.py",
+    "export": "python export_chatgpt_feedback.py"
+  }
+}

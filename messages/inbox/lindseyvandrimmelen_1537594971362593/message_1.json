@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Lindsey VanDrimmelen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lindsey VanDrimmelen",
+      "timestamp_ms": 1779383196226,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383187025,
+      "content": "yeah I\u00e2\u0080\u0099ll let you know once it gets approved by Google. Hopefully shouldn\u00e2\u0080\u0099t take very long if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lindsey VanDrimmelen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383168325,
+      "content": "okay perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lindsey VanDrimmelen",
+      "timestamp_ms": 1779383158670,
+      "content": "Yes it's\n linkaynic@gmail.com \n\nI'm excited to try this!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383131097,
+      "content": "Could you send me your email? I could add you as a tester for Android once Google approves the app in a few days",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779382735450,
+      "content": "Yeah I feel you I myself am super inconsistent reading the Book of Mormon half of the reason I built the app was so I could be better hahah \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779382695898,
+      "content": "Hey that\u00e2\u0080\u0099s great!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lindsey VanDrimmelen",
+      "timestamp_ms": 1779379238485,
+      "content": "I would love to test this app on Android. I have struggled with reading the book of Mormon for years and I stumbled across your video just randomly and went to go download the app and saw that it was only for Apple. I have a Google phone but as soon as it's available I'd love to try this out and see if it can help me with my scripture study. \n\nI think it's amazing that you are doing this. It just shows how much you care about that book",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lindsey VanDrimmelen",
+  "is_still_participant": true,
+  "thread_path": "inbox/lindseyvandrimmelen_1537594971362593",
+  "magic_words": [
+    
+  ]
+}

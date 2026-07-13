@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "LB"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LB",
+      "timestamp_ms": 1780028641168,
+      "content": "Hey I love your tether app idea! if you still need android testers here's my gmail laurynboyter@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LB",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lb_26887237057603669",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

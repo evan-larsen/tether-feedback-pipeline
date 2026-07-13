@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Aly"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aly",
+      "timestamp_ms": 1779676519809,
+      "content": "Will do!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aly",
+      "timestamp_ms": 1779676500613,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675106963,
+      "content": "And if you ever have any feedback or suggestions or issues or anything feel free to DM me about it :D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675093172,
+      "content": "Awesome thank you!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aly"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aly",
+      "timestamp_ms": 1779593384030,
+      "content": "Just downloaded it! We\u00e2\u0080\u0099ll see how  this goes!!",
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3903780883689786112"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aly",
+  "is_still_participant": true,
+  "thread_path": "inbox/aly_4220308361566784",
+  "magic_words": [
+    
+  ]
+}

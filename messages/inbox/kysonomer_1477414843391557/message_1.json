@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Kyson Omer"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kyson Omer",
+      "timestamp_ms": 1780157826267,
+      "content": "Dude this app is so cool and so clean! The only bug that I noticed, and take it with a large grain of salt because my phone isn't exactly working 100%, is when I click on the notification to go to the app it opens the app but stays on a white screen. Again not sure if it is my phone or not but that is the only thing I noticed. As for suggestions I have, I think the biggest one is getting it into other languages starting with the main mission ones like Spanish, Portuguese, and even mandarin Chinese so missionaries getting ready to go can start familiarizing themselves with the BOM in their language. Thanks for letting me try and I'm gonna keep on going!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588622091,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kyson Omer",
+      "timestamp_ms": 1779578907056,
+      "content": "kyson.omer@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kyson Omer",
+  "is_still_participant": true,
+  "thread_path": "inbox/kysonomer_1477414843391557",
+  "magic_words": [
+    
+  ]
+}

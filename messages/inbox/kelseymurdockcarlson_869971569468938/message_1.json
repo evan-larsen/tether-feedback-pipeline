@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kelsey Murdock Carlson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779407256426,
+      "content": "Hey! I just saw your message on my video. Google just approved Tether for testing on Android a few minutes ago. If you want to DM me your Gmail I could get you added as a tester and get you on the app asap? Otherwise it will be available publicly in 14 days \u00f0\u009f\u0098\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelsey Murdock Carlson",
+  "is_still_participant": true,
+  "thread_path": "inbox/kelseymurdockcarlson_869971569468938",
+  "magic_words": [
+    
+  ]
+}

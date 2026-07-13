@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Leila Barker"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leila Barker",
+      "timestamp_ms": 1779311936848,
+      "content": "Hi! I always have such a hard time keeping streaks on the library app or Duolingo but Duolingo just implemented this feature where you can lock certain apps until you\u00e2\u0080\u0099ve done a lesson or added to your streak for the day. This is made it SO easy for me to stay consistent as I\u00e2\u0080\u0099ve chosen TikTok and instagram to be blocked each day. All I do is complete one lesson and then my apps unlock. I know this might be hard to implement with the screen time settings and everything but please keep it in mind as I think it would be a great feature! I\u00e2\u0080\u0099ll also mention that it\u00e2\u0080\u0099s optional and you have to opt in to locking your apps which I think is important. You should go check it out on Duolingo. Also I love tether!! Thanks so much!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Leila Barker",
+  "is_still_participant": true,
+  "thread_path": "hidden_threads/leilabarker_1503963037714601",
+  "magic_words": [
+    
+  ]
+}

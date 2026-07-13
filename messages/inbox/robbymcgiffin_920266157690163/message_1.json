@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Robby McGiffin"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Robby McGiffin",
+      "timestamp_ms": 1780960317901,
+      "content": "And where apostraphes usually would be there are question marks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robby McGiffin",
+      "timestamp_ms": 1780959913356,
+      "content": "I think just one thing I would say is maybe add some audio, and also i only get notifications after my streak has ended, would be nice to get a reminder before. And I think it would be cool to like challenge a freind and whoever gets the most xp in 2 days get some kind of prize in the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robby McGiffin",
+      "timestamp_ms": 1779915242495,
+      "content": "Ayy looks great!! Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779826169868,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Robby McGiffin",
+      "timestamp_ms": 1779747063851,
+      "content": "mcgiffinrobby@gmail.com here is my email, tethr looks like a cool app, I want to try it, am turning in my mission papers soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Robby McGiffin",
+  "is_still_participant": true,
+  "thread_path": "inbox/robbymcgiffin_920266157690163",
+  "magic_words": [
+    
+  ]
+}

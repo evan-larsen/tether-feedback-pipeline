@@ -1,0 +1,225 @@
+{
+  "participants": [
+    {
+      "name": "Brayden Bonnell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780952841313,
+      "content": "Also had an idea for an update. Could you make it so after you start reading from the Tether app if you decide to read from a hardcopy and then come back to the Tether app you don\u00e2\u0080\u0099t have to reread the things on the Tether app that you just did on the hardcopy?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780952588867,
+      "content": "So far everything is working fine!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536792710,
+      "content": "as long as you have the new update installed as well",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536782243,
+      "content": "so if your phone is in dark mode the app will be in darkmode",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536768538,
+      "content": "it matches your phone theme",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780524316418,
+      "content": "Just finished today\u00e2\u0080\u0099s reading. Seems good to me. How do I change dark mode and such? Is there a settings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780505051575,
+      "content": "But the new version just got approved a few minutes ago could you check now and see if you see it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780505038844,
+      "content": "Hey super sorry I actually forgot to hit publish so the update never got reviewed that's my bad \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780498727736,
+      "content": "I will keep looking on my end, but I don\u00e2\u0080\u0099t see an update in the App Store and I still can\u00e2\u0080\u0099t read it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780492082478,
+      "content": "Wow, those are some actually awesome ideas! Would a friend streak mean making accounts?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780434132392,
+      "content": "But yes I'm very open to ideas!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780434124953,
+      "content": "Many ideas, right now I'm close to finishing adding dark mode for the app, so it doesn't hurt peoples eyes to read at night hahaha, then there's a few things I can choose to work on like highlighting/saving verses, friend streaks, profiles, making levels actually mean something, etc.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780434051975,
+      "content": "Update to the new version and let me know if it's working for you now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780434046207,
+      "content": "Hey forgot to let you know, I got an update out yesterday that should fix that issue you were having",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780368693192,
+      "content": "Hello! I was just wondering what you had planned for the app in the future. Does it work how you always want it to or is there more features to come? And are you open to ideas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780258291194,
+      "content": "I look forward to it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780246468399,
+      "content": "and unfortunately Apple usually takes a day to approve updates so the fix won't be out until tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780246426384,
+      "content": "It's some text scaling issues I have that I didn't fix fully so I'll get that fixed rn asap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780246402931,
+      "content": "okok thank you so much for that recording",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780246114832,
+      "content": "I just had a friend try, and they were also fine until chapter 15",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780245783959,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/braydenbonnell_1504850854716432/videos/1317402147169995.mp4",
+          "creation_timestamp": 1780245759
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780245590575,
+      "content": "I have an IPhone SE and here is the recording. When I get to the lesson and nothing happens I am scrolling up and down.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780186800630,
+      "content": "Oh and what type of phone do you have?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780186741644,
+      "content": "Could you send me a screen recording of what you're seeing so I can see if I can re-create the issue?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780186711890,
+      "content": "Hey! I'm taking a look at this right now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1780183842807,
+      "content": "Hello! I was just doing my reading today and I got to first Nephi 15 and it won\u00e2\u0080\u0099t let me scrolll or continue past the insight part of that chapter. Do you have any suggestions on what to do? I have deleted and reinstalled the app as well as closed and reopened it. I am at a loss and would appreciate a quick response please!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779826208456,
+      "content": "Yes I just got that fixed recently it'll be in the next update",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brayden Bonnell",
+      "timestamp_ms": 1779679611052,
+      "content": "Hello! I learned about your app from a friend who was play testing it for android and I have loved it so far! I did notice however that when I am getting quizzed after each reading whenever there is an apostrophe it puts a question mark instead, so I'm not sure what that is but I love the app overall.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brayden Bonnell",
+  "is_still_participant": true,
+  "thread_path": "inbox/braydenbonnell_1504850854716432",
+  "magic_words": [
+    
+  ]
+}

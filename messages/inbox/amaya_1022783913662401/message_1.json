@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Amaya"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amaya",
+      "timestamp_ms": 1779502521210,
+      "content": "Kk perfect!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaya",
+      "timestamp_ms": 1779502514442,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaya",
+      "timestamp_ms": 1779502507482,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498955721,
+      "content": "I've been brainstorming a few things to add like what you said it's definitely going to be something I solve in the future",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Amaya"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498932611,
+      "content": "XP is definitely a little bit meaningless right now hahaha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Amaya"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498910543,
+      "content": "Yes I totally agree!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amaya",
+      "timestamp_ms": 1779482610685,
+      "content": "Hey, the app is awesome!! It\u00e2\u0080\u0099s definitely going to help me be better at seminary and carry my young woman\u00e2\u0080\u0099s class. This isn\u00e2\u0080\u0099t really criticism but I just wanted to suggest that as much as I love collecting the xp I think having a reward once you collect enough, like you can buy something or find characters, like a little Nephite, that\u00e2\u0080\u0099s you can put the armor of god on would be really cool !!! Thanks for all you do. God loves you!!! \u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097\u00f0\u009f\u0092\u0097",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amaya",
+  "is_still_participant": true,
+  "thread_path": "inbox/amaya_1022783913662401",
+  "magic_words": [
+    
+  ]
+}

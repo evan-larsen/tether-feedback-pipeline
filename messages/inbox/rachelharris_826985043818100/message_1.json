@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Harris"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779407073690,
+      "content": "Hey! I just saw your comment on my video. Google just approved the app for testing a few minutes ago. If you want to DM me your Gmail I could get you added as a tester and get you on the app asap?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rachel Harris",
+  "is_still_participant": true,
+  "thread_path": "inbox/rachelharris_826985043818100",
+  "magic_words": [
+    
+  ]
+}

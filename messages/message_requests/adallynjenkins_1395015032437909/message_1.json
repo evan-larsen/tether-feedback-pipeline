@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Adallyn Jenkins"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Adallyn Jenkins",
+      "timestamp_ms": 1781231205009,
+      "content": "Hi there! I love your app, it really helps but i had a little advice if you\u00e2\u0080\u0099re open to it; as someone who really struggles to understand the book of mormon, maybe include summaries after the questions? or notes to help understand more what someone is reading? idk just something to help us slow learners to understand easier. maybe visuals? idk just wanna help!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Adallyn Jenkins",
+  "is_still_participant": true,
+  "thread_path": "message_requests/adallynjenkins_1395015032437909",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

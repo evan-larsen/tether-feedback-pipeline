@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Austin Spjut"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Austin Spjut",
+      "timestamp_ms": 1779421754700,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392798621,
+      "content": "I love this idea a lot of people have been suggesting it so I'm definitely adding it to my list of things to get done!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Austin Spjut"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Austin Spjut",
+      "timestamp_ms": 1779337646999,
+      "content": "I got a suggestion for your app. You should make it so it can turn into a widget so it is always on my home screen. Just a suggestion, and I love the app by the way great idea \u00ef\u00bf\u00bc\u00ef\u00bf\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Austin Spjut",
+  "is_still_participant": true,
+  "thread_path": "inbox/austinspjut_4417567561827813",
+  "magic_words": [
+    
+  ]
+}

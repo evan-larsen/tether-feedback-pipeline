@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "AJ Casutt"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498258292,
+      "content": "Yes I totally agree! A lot of people have been wanting a widget with the streak on it so I'm definitely going to get that added soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AJ Casutt",
+      "timestamp_ms": 1779496738886,
+      "content": "Hi! I\u00e2\u0080\u0099ve tried out tether and I love it so much, it\u00e2\u0080\u0099s an easy way to start a habit. I think it would be so cool if it had a widget like Duolingo to remind you to keep the streak up! And maybe if you could there could be links to the gospel library for references or something like that?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AJ Casutt",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajcasutt_4387656281447929",
+  "magic_words": [
+    
+  ]
+}

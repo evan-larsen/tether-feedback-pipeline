@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Kate Cochran"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kate Cochran",
+      "timestamp_ms": 1779590711843,
+      "content": "That's awesome! Great to hear. Good luck!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590507637,
+      "content": "I just finished a bunch of other little things blocking me from working on it but now I can start getting that added pretty soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590442096,
+      "content": "Yes! That is a very good idea and a lot of people have been requesting it lately",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kate Cochran",
+      "timestamp_ms": 1779589690589,
+      "content": "Hey! I downloaded your app a few days ago and I am loving it so far!!! It has really helped me be more consistent in connecting with Jesus daily, but I was thinking that adding a widget option for the Apple Home screen would be super cool! Just a suggestion!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate Cochran",
+  "is_still_participant": true,
+  "thread_path": "inbox/katecochran_1306370251624354",
+  "magic_words": [
+    
+  ]
+}

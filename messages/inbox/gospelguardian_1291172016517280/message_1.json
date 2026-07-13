@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Gospel Guardian"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779347415290,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779347414999,
+      "content": "8019177008",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779347410944,
+      "content": "Here's my number, shoot me a text",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779347399923,
+      "content": "Of course, happy to man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779347390322,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779341427443,
+      "content": "Dude thank you so much, seriously that means a ton. And it\u00e2\u0080\u0099s honestly so cool to see someone else who has the same vision for what this could become hahah.\n\nI\u00e2\u0080\u0099m still super early and mostly trying to move fast, get Android up, add more content, understand retention, fix the obvious bottlenecks, etc. before I make any big partnership decisions. \n\nBut I\u00e2\u0080\u0099d genuinely love to hear your thoughts and get your advice from your experience. I\u00e2\u0080\u0099d be down to hop on a quick call sometime if you\u00e2\u0080\u0099re down?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gospel Guardian"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779334982364,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gospelguardian_1291172016517280/audio/998241886043641.mp4",
+          "creation_timestamp": 1779334977
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gospel Guardian",
+      "timestamp_ms": 1779334827711,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779332221628,
+      "content": "hey what\u00e2\u0080\u0099s up man",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Gospel Guardian"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gospel Guardian",
+  "is_still_participant": true,
+  "thread_path": "inbox/gospelguardian_1291172016517280",
+  "magic_words": [
+    
+  ]
+}

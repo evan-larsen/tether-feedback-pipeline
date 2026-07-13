@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Greta Sill"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Greta Sill",
+      "timestamp_ms": 1779252587150,
+      "content": "i just downloaded it and i\u00e2\u0080\u0099m so excited! i have been struggling understanding and getting into the scriptures and can\u00e2\u0080\u0099t wait to see how this helps me! thank you for creating this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Greta Sill",
+      "timestamp_ms": 1779252536021,
+      "content": "this idea of tether is so cool",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Greta Sill",
+  "is_still_participant": true,
+  "thread_path": "hidden_threads/gretasill_2323317714743298",
+  "magic_words": [
+    
+  ]
+}

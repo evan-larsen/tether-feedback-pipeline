@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Crystal Bates"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779412059190,
+      "content": "nice! Thank you so much for using it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crystal Bates",
+      "timestamp_ms": 1779410710238,
+      "content": "I just tested the 1st part of lvl 1 of 1st Nephi. I love this app so far.\n There are no issues at all.\nI tend to forget some things. It really does make you think in this app.\nI can't wait to continue further in this app.\n\nThank you so much!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crystal Bates",
+      "timestamp_ms": 1779407495721,
+      "content": "Reacted \u00f0\u009f\u0098\u0083 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405596666,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0083",
+          "actor": "Crystal Bates"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crystal Bates",
+      "timestamp_ms": 1779371754839,
+      "content": "\u00f0\u009f\u0098\u0083",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371750828,
+      "content": "hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371740123,
+      "content": "yeah I\u00e2\u0080\u0099ll let you know asap once Google approves it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371730210,
+      "content": "okay perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Crystal Bates",
+      "timestamp_ms": 1779371717124,
+      "content": "It'd love to get in on the beta testing with Tether (Book if Mormon) for android. It looks amazing\n\npeekalabooboo@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371613235,
+      "content": "I\u00e2\u0080\u0099m not sure why maybe there\u00e2\u0080\u0099s some setting I needa enable hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371598311,
+      "content": "Hey! Js saw your comment you said you couldn\u00e2\u0080\u0099t DM me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Crystal Bates",
+  "is_still_participant": true,
+  "thread_path": "inbox/crystalbates_1933995530581656",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Eliza Stopczynski \u00e2\u009c\u00ae\u00e2\u008b\u0086"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eliza Stopczynski \u00e2\u009c\u00ae\u00e2\u008b\u0086",
+      "timestamp_ms": 1779677157390,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674987939,
+      "content": "And yes I'm definitely going to get that added eventually at some point",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Eliza Stopczynski \u00e2\u009c\u00ae\u00e2\u008b\u0086"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674976839,
+      "content": "thank you so much! I'm so happy you're liking it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eliza Stopczynski \u00e2\u009c\u00ae\u00e2\u008b\u0086",
+      "timestamp_ms": 1779633489647,
+      "content": "Hey I just wanna say I LOVE YOUR APP!!! I\u00e2\u0080\u0099ve been recently in a slump of reading my scriptures and this is helping me to read them more but also actually understand them so thank you so so much! The only thing you could change is maybe make it so you could highlights parts of verses kind of like in the lds library app but I truly love it and I\u00e2\u0080\u0099m so blessed to have found it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eliza Stopczynski \u00e2\u009c\u00ae\u00e2\u008b\u0086",
+  "is_still_participant": true,
+  "thread_path": "inbox/elizastopczynski_4548893458769332",
+  "magic_words": [
+    
+  ]
+}

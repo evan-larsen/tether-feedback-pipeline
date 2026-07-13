@@ -1,0 +1,437 @@
+{
+  "participants": [
+    {
+      "name": "Maggie Reynolds"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779674692398,
+      "content": "Hahaha no worries! keeping up to date with an app everywhere is hard.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674660769,
+      "content": "so I'll get that added haha my bad \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674650339,
+      "content": "I totally forgot to add that update for Android whoops",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674644383,
+      "content": "ohh right you're on Android",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779674615255,
+      "content": "Perf I'll try updating it in my Google app store. Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779674591035,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779674580847,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779674575362,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674383428,
+      "content": "But I think it is available now if you update the app it should go away I believe",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674367856,
+      "content": "I got it fixed last night Apple just takes forever to approve updates",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674353647,
+      "content": "Yeahh it was this super weird issue where the app wasn't recognizing apostrophes and turned them into question marks for some reason haha",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779661739969,
+      "content": "Going through the apps questions more I've found a few more words that should have apostrophes and instead have question marks instead. I don't mind, but I do know you want your product as polished as possible",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779630849665,
+      "content": "Hey! Nothing big, but for the question that went along with 1 Nephi 2:11-13 (or somewhere around there) you spelled father's like this: father?s.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779413283339,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779412166175,
+      "content": "A ton of people have been suggesting it and I love the idea so it\u00e2\u0080\u0099s definitely on my list of things to get done",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779412115187,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779407603224,
+      "content": "Love the app. Just got through 1 Nephi 1. One idea, and I don't know how easy it would be to pull this off especially cuz I don't know much about Kotlin or Swift, but could you make a streak widget for your home screen?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405774583,
+      "content": "Will do! I'm exited!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405747470,
+      "content": "and if you ever have any feedback or any issues at all feel completely free to DM me I usually respond pretty fast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405743947,
+      "content": "Yeah no problem thank you for trying out the app haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405727669,
+      "content": "Thank you again!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405721399,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405716026,
+      "content": "Okay nice!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405707738,
+      "content": "Thanks! Just download the app!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405707413,
+      "content": "I think it might be because it needs to be the same email that you\u00e2\u0080\u0099re logged into the play store with? But idk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405691175,
+      "content": "might take a sec to update I\u00e2\u0080\u0099m not sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405681749,
+      "content": "okay just saved it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405637353,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405633705,
+      "content": "Thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405624478,
+      "content": "Yes I\u00e2\u0080\u0099ll put that in",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405604947,
+      "content": "Hmmm..... This is what I got. Could you try maggie.r.reynolds@gmail.com instead? Sorry",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405582811,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/maggiereynolds_1457978112316071/photos/872593762537386.jpg",
+          "creation_timestamp": 1779405579
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405538898,
+      "content": "kk awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405527974,
+      "content": "I will! And if I do I'll send you a second email right away",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405499618,
+      "content": "I\u00e2\u0080\u0099m pretty sure it should still work even though you have an @missiomary email but let me know if you have any issues with it okay?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779405498818,
+      "content": "Ahhhh!! Thank you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405477001,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779384527045,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383209368,
+      "content": "I love that idea that would be so cool!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Maggie Reynolds"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779377797583,
+      "content": "Perfect! Thank you so much! If it works I'll see if I can reccomed it to my mission president maybe we can get the pros missionaries in my area to start reccomending it to people they teach",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779377560943,
+      "content": "Hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779377553005,
+      "content": "Yeah I\u00e2\u0080\u0099ll let you know asap once Google approves the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779377368233,
+      "content": "Perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maggie Reynolds",
+      "timestamp_ms": 1779376446381,
+      "content": "Would love to test it out! My email is margaret.reynolds@missionary.org",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maggie Reynolds",
+  "is_still_participant": true,
+  "thread_path": "inbox/maggiereynolds_1457978112316071",
+  "magic_words": [
+    
+  ]
+}

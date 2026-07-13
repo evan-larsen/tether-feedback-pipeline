@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Wyatt loosli"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wyatt loosli",
+      "timestamp_ms": 1780958366212,
+      "content": "You should add a way for it to read the verses out loud to you I think that would be awesome great app though",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wyatt loosli",
+  "is_still_participant": true,
+  "thread_path": "message_requests/wyattloosli_27734444052808859",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

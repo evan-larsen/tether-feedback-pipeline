@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jacob Zufelt"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jacob Zufelt",
+      "timestamp_ms": 1780083702173,
+      "content": "jacob@zufelt.org",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jacob Zufelt",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jacobzufelt_1571086547916727",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

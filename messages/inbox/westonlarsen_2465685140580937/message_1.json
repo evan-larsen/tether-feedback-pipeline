@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Weston Larsen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499165945,
+      "content": "thank you man I appreciate it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weston Larsen",
+      "timestamp_ms": 1779499027701,
+      "content": "I absolutely love what you\u00e2\u0080\u0099re doing tho, I do have mad respect for that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498990131,
+      "content": "good to see another Larsen out in the wild hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498985115,
+      "content": "hahahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weston Larsen",
+      "timestamp_ms": 1779474868781,
+      "content": "Mad respect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Weston Larsen",
+      "timestamp_ms": 1779474865366,
+      "content": "Yo nice last name dude",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Weston Larsen",
+  "is_still_participant": true,
+  "thread_path": "inbox/westonlarsen_2465685140580937",
+  "magic_words": [
+    
+  ]
+}

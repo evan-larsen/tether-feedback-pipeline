@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Mark"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mark",
+      "timestamp_ms": 1780562876223,
+      "content": "Alright I think I did.\n\nI'm in the process of being baptised, soon soon and still coming onto reading the Book of Mormon, I find it hard sometimes and so this should be interesting to see how it aids me. \n\nIdk how many investigators you have using the app but I'm one of em \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536972666,
+      "content": "I usually look at the emails I get every night and add them so it won\u00e2\u0080\u0099t be added instantly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536948044,
+      "content": "When you put your email into the link I can see it and then I add it to the Google tester list and then I\u00e2\u0080\u0099ll email you the link to the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780536825186,
+      "content": "Yes and you\u00e2\u0080\u0099re all good don\u00e2\u0080\u0099t worry hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark",
+      "timestamp_ms": 1780521804924,
+      "content": "I'm like so silly my bad my guy. So if I put my email into the link I should get access right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mark",
+  "is_still_participant": true,
+  "thread_path": "inbox/mark_2522839304840440",
+  "magic_words": [
+    
+  ]
+}

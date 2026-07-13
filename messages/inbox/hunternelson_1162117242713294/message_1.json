@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Hunter Nelson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1780027486084,
+      "content": "Awesome, loving it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1780027470916,
+      "content": "Reacted \u00f0\u009f\u0092\u009c to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780026976526,
+      "content": "Hey! Yes I just got that fixed and the new update is out so it should be gone now haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009c",
+          "actor": "Hunter Nelson"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1779939908572,
+      "content": "Hey, it seems all the apostrophes in the app are question marks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1779847680771,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/hunternelson_1162117242713294/photos/1285729539943305.jpg",
+          "creation_timestamp": 1779847679
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1779847675365,
+      "content": "Hello, loving the app so far, just had a small typo to report",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499851309,
+      "content": "Nice!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1779499431641,
+      "content": "Got it installed! Thanks!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499068849,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hunter Nelson",
+      "timestamp_ms": 1779466510508,
+      "content": "Hello, i would like to have early acess to the tether app on android! This looks amazing, and will really help me. My gmail is hjnelson14@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hunter Nelson",
+  "is_still_participant": true,
+  "thread_path": "inbox/hunternelson_1162117242713294",
+  "magic_words": [
+    
+  ]
+}

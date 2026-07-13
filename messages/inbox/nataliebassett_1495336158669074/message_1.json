@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Bassett"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie Bassett",
+      "timestamp_ms": 1779675129125,
+      "content": "Thanks!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Bassett",
+      "timestamp_ms": 1779675125059,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674939155,
+      "content": "I just got your email added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "I just got your email added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674919744,
+      "content": "yooo that's so cool!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Natalie Bassett"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalie Bassett",
+      "timestamp_ms": 1779648334734,
+      "content": "Hey, I got my mission call to Brazil and I'd love to test your app! I have an android so here is my email: nataliealexisbassett@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalie Bassett",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliebassett_1495336158669074",
+  "magic_words": [
+    
+  ]
+}

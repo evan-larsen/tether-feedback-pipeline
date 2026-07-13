@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Seth Nelson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seth Nelson",
+      "timestamp_ms": 1781192377876,
+      "content": "https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA",
+      "share": {
+        "link": "https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA",
+        "share_text": "https://share.icloud.com/photos/093Kff1SPIJPOajgB2V4souCA"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seth Nelson",
+      "timestamp_ms": 1781192312970,
+      "content": "Hey, I downloaded tether and noticed on the setup screen where you can pick to start where you already are in the BoM, that the drop-down menu is kind of hidden and at the bottom of the screen. Here\u00e2\u0080\u0099s a screenshot. I\u00e2\u0080\u0099m on a iPhone 8, so it could just be that my screen is small. Just thought you might want to know.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seth Nelson",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sethnelson_1040099772022781",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

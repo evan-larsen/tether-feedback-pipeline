@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Ashby"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590534053,
+      "content": "Awesome thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hannah Ashby",
+      "timestamp_ms": 1779589884166,
+      "content": "Great! If I find anything I\u00e2\u0080\u0099ll make sure to mention it then. You\u00e2\u0080\u0099ve got a really great idea here!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779564912794,
+      "content": "But getting good feedback from people has been seriously super helpful lately it's definitely something that helps the app turn into something great haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779564883924,
+      "content": "One thing that is super helpful for me is if you ever have any feedback or suggestions or issues or anything you can DM me about it and I usually respond pretty fast",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779564842487,
+      "content": "Hey thank you that's so nice of you. The app is built with react native so Python probably wouldn't fit super directly right now, but I appreciate the offer :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hannah Ashby",
+      "timestamp_ms": 1779552716627,
+      "content": "If you\u00e2\u0080\u0099re looking for volunteers to help I know a bit of python, not anything big just an introduction college course, but I think it would be fun to help with this project if you\u00e2\u0080\u0099re looking for some!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hannah Ashby",
+      "timestamp_ms": 1779552641081,
+      "content": "Are you using python to code the app?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779550835119,
+      "content": "Yeah it definitely will take a while hahah even just to finish the Book of Mormon but I'm definitely planning on adding more books eventually. I would love to have that much content",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hannah Ashby",
+      "timestamp_ms": 1779501694982,
+      "content": "Hey! So I really like your idea of the app and I just downloaded it! I know coding takes a really long time but I was wondering if you were ever planning on moving into the old and New Testament? And maybe even doctrine and covenants?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hannah Ashby",
+  "is_still_participant": true,
+  "thread_path": "inbox/hannahashby_2074997703438023",
+  "magic_words": [
+    
+  ]
+}

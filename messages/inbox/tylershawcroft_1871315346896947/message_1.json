@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "tyler shawcroft"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780949446623,
+      "content": "I really needa get streak freezes added soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780949431270,
+      "content": "No not right now I\u00e2\u0080\u0099m so sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "tyler shawcroft",
+      "timestamp_ms": 1780935179773,
+      "content": "hey so i might\u00e2\u0080\u0099ve broken my streak on the app\u00e2\u0080\u00a6 is there a way i can restore it???",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027280375,
+      "content": "that's awesome thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "tyler shawcroft",
+      "timestamp_ms": 1779983173106,
+      "content": "hey! i just wanted to say i love your app! i just did a session on it, and i absolutely love it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tyler shawcroft",
+  "is_still_participant": true,
+  "thread_path": "inbox/tylershawcroft_1871315346896947",
+  "magic_words": [
+    
+  ]
+}

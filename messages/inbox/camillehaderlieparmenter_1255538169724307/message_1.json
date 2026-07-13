@@ -1,0 +1,85 @@
+{
+  "participants": [
+    {
+      "name": "Camille Haderlie Parmenter"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Camille Haderlie Parmenter",
+      "timestamp_ms": 1779498839238,
+      "content": "Yay! We are so excited",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498784464,
+      "content": "Awesome! I just got him added you can send him that link and it should work for him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camille Haderlie Parmenter",
+      "timestamp_ms": 1779498652525,
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camille Haderlie Parmenter",
+      "timestamp_ms": 1779498640084,
+      "content": "Parmenterjared@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498055105,
+      "content": "Yes, if you just send me his email I can get him onto the tester list, and then the same link will work for him",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camille Haderlie Parmenter",
+      "timestamp_ms": 1779474726411,
+      "content": "Thats awesome, thanks! Is there any way to add my husband too?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779471411075,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camille Haderlie Parmenter",
+      "timestamp_ms": 1779470590364,
+      "content": "Awesome! This is great! Camilleparmenter@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779406062269,
+      "content": "Hey! I saw your comment on my video. I got the Android app uploaded and Google just approved it for testing \u00f0\u009f\u0098\u0081\n\nIf you want to send me your Gmail I could get you added as a tester so you could access the app right now?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Camille Haderlie Parmenter",
+  "is_still_participant": true,
+  "thread_path": "inbox/camillehaderlieparmenter_1255538169724307",
+  "magic_words": [
+    
+  ]
+}

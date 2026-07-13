@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Lincoln Caldwell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405561821,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383307598,
+      "content": "Hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383279596,
+      "content": "yeah I\u00e2\u0080\u0099ll let you know asap once Google approves the app for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383264927,
+      "content": "perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lincoln Caldwell",
+      "timestamp_ms": 1779381158104,
+      "content": "mindycldwll@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3901556437331639232"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lincoln Caldwell",
+  "is_still_participant": true,
+  "thread_path": "inbox/lincolncaldwell_27331209076491969",
+  "magic_words": [
+    
+  ]
+}

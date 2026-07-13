@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Emmett johnson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emmett johnson",
+      "timestamp_ms": 1780958050730,
+      "content": "You should add languages so missionaries can use it to study",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emmett johnson",
+  "is_still_participant": true,
+  "thread_path": "message_requests/emmettjohnson_983537654307607",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

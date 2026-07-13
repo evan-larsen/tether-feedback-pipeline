@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Tyson Ninalga"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779589047230,
+      "content": "Yeahhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tyson Ninalga",
+      "timestamp_ms": 1779588913297,
+      "content": "no yeah i bet it takes forever but im excited for em!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588714697,
+      "content": "It\u00e2\u0080\u0099s definitely going to take a while getting the Book of Mormon finished is already taking forever hahaha but eventually we\u00e2\u0080\u0099ll have them!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588691752,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tyson Ninalga",
+      "timestamp_ms": 1779588678103,
+      "content": "dope bro thanks! the app is sick? are other books gonna be in it too? like d&c and the bible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588579496,
+      "content": "yeahh I just got that ? issue fixed today it\u00e2\u0080\u0099ll be in the next update. It was this super weird thing where my app didn\u00e2\u0080\u0099t recognize apostrophes and turned them into question marks hahaha \u00f0\u009f\u0098\u0085\n\nAnd yes I\u00e2\u0080\u0099m fs going to get dark mode added eventually",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tyson Ninalga",
+      "timestamp_ms": 1779577421400,
+      "content": "the app is awesome! it gives me a greater understanding and to me it\u00e2\u0080\u0099s way easier to read! \ni\u00e2\u0080\u0099ve noticed for the questions after reading that the apostrophes turn into question marks. like \u00e2\u0080\u009cnephi?s\u00e2\u0080\u009d and \u00e2\u0080\u009cfathers?\u00e2\u0080\u009d\n\nand a dark mode with a black background with white text would be awesome!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tyson Ninalga",
+  "is_still_participant": true,
+  "thread_path": "inbox/tysonninalga_1080599905145913",
+  "magic_words": [
+    
+  ]
+}

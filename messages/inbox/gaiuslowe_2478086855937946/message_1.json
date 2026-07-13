@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Gaius Lowe"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498874561,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gaius Lowe",
+      "timestamp_ms": 1779487978856,
+      "content": "gaius967@gmail.com\n\nI would love to test your app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gaius Lowe",
+  "is_still_participant": true,
+  "thread_path": "inbox/gaiuslowe_2478086855937946",
+  "magic_words": [
+    
+  ]
+}

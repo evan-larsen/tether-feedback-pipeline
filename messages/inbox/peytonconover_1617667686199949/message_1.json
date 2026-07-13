@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0099\u00bf\u00f0\u009d\u009a\u008e\u00f0\u009d\u009a\u00a2\u00f0\u009d\u009a\u009d\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097 \u00f0\u009d\u0099\u00b2\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u009f\u00f0\u009d\u009a\u008er \u00f0\u009f\u00aa\u00b6"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498894430,
+      "content": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u00bf\u00f0\u009d\u009a\u008e\u00f0\u009d\u009a\u00a2\u00f0\u009d\u009a\u009d\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097 \u00f0\u009d\u0099\u00b2\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u009f\u00f0\u009d\u009a\u008er \u00f0\u009f\u00aa\u00b6",
+      "timestamp_ms": 1779485268681,
+      "content": "peyton09conover@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0099\u00bf\u00f0\u009d\u009a\u008e\u00f0\u009d\u009a\u00a2\u00f0\u009d\u009a\u009d\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097 \u00f0\u009d\u0099\u00b2\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u009f\u00f0\u009d\u009a\u008er \u00f0\u009f\u00aa\u00b6",
+      "timestamp_ms": 1779485230860,
+      "content": "Can I get Early Access for the Android version!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0099\u00bf\u00f0\u009d\u009a\u008e\u00f0\u009d\u009a\u00a2\u00f0\u009d\u009a\u009d\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097 \u00f0\u009d\u0099\u00b2\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u0097\u00f0\u009d\u009a\u0098\u00f0\u009d\u009a\u009f\u00f0\u009d\u009a\u008er \u00f0\u009f\u00aa\u00b6",
+  "is_still_participant": true,
+  "thread_path": "inbox/peytonconover_1617667686199949",
+  "magic_words": [
+    
+  ]
+}

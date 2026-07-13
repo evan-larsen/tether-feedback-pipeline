@@ -1,0 +1,162 @@
+{
+  "participants": [
+    {
+      "name": "Aubrey Gardner"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779589095554,
+      "content": "Nice!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779588496007,
+      "content": "It worked! Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588312700,
+      "content": "see if the link works now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588308874,
+      "content": "okay nice I just got that one added",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779588248996,
+      "content": "Ooh. My google play email is meilon000@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779467623234,
+      "content": "It might be because you use a different email in the Google play store than the one you gave me?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779455327001,
+      "content": "I tried to download the app. It says its not found",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779408395994,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405358282,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Aubrey Gardner"
+        }
+      ],
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779387807003,
+      "content": "Aubrey sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYVOzqQNpTt/?id=3897086175272670445_4017211717",
+        "share_text": "Customiza\u00c3\u00a7\u00c3\u00a3o f\u00c3\u00a1cil \u00f0\u009f\u0091\u0096\u00e2\u009c\u0082\u00ef\u00b8\u008f\n\nVoc\u00c3\u00aa encontra o blazer no @mercadolivre , \u00c3\u00b3tima qualidade com entrega r\u00c3\u00a1pida e segura \u00f0\u009f\u00a4\u00a9\n\nID: X6U4Y3-2N7F\n\n#AeC279 #MercadoLivre #MercadoLivreFashion #MeusFavsDoMercadoLivre #upcycling",
+        "original_content_owner": "canaldadessa"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779383646110,
+      "content": "Yay!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383366944,
+      "content": "Hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383358761,
+      "content": "Yeah I\u00e2\u0080\u0099ll let you know asap once Google approves the app for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383348037,
+      "content": "perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aubrey Gardner",
+      "timestamp_ms": 1779374122378,
+      "content": "I would love early access for google play store!\n5gardnerkids@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aubrey Gardner",
+  "is_still_participant": true,
+  "thread_path": "inbox/aubreygardner_1659817088600178",
+  "magic_words": [
+    
+  ]
+}

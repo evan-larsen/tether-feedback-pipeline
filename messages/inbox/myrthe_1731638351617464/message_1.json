@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Myrthe"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308804938,
+      "content": "Yeah no worries, im definitely keeping an eye out! Its such an amazing concept!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779308635731,
+      "content": "hm interesting I\u00e2\u0080\u0099ll take a look at this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308525497,
+      "content": "And when i look up the app in the appstore",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308517965,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/myrthe_1731638351617464/photos/750924654709384.jpg",
+          "creation_timestamp": 1779308516
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/myrthe_1731638351617464/photos/1665499497834112.jpg",
+          "creation_timestamp": 1779308516
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308513837,
+      "content": "This is what i see when i try to use the link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308506752,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/myrthe_1731638351617464/photos/2005075783455399.jpg",
+          "creation_timestamp": 1779308505
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Myrthe",
+      "timestamp_ms": 1779308503274,
+      "content": "Hey im on an Iphone, in The Netherlands",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779308191387,
+      "content": "Hey! I saw your comment on my video. The app should be available for any country so I\u00e2\u0080\u0099m not sure why it wouldn\u00e2\u0080\u0099t work for you\u00e2\u0080\u00a6\n\nAre you on an iPhone or Android?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Myrthe",
+  "is_still_participant": true,
+  "thread_path": "inbox/myrthe_1731638351617464",
+  "magic_words": [
+    
+  ]
+}

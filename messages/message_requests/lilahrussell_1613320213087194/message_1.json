@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Lilah Russell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lilah Russell",
+      "timestamp_ms": 1780589589189,
+      "content": "Would it be possible to build a version to help read the Book of Mormon in different languages? I\u00e2\u0080\u0099ve been trying to read the Book of Mormon in Spanish for a while now but I struggle to get past first Nephi 1\u00e2\u0080\u00a6 I think reading a couple verses at a time with a quick comprehension quiz at the end would be such a big help and motivation and could really help lots of members, especially missionaries who are trying to understand the language better",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lilah Russell",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lilahrussell_1613320213087194",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

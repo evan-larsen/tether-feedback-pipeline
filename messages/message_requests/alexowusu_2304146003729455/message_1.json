@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Alex Owusu"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alex Owusu",
+      "timestamp_ms": 1780609910125,
+      "content": "My name is Alex and I want to get an early access to the app so here is my Gmail alexkorsah3@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alex Owusu",
+  "is_still_participant": true,
+  "thread_path": "message_requests/alexowusu_2304146003729455",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

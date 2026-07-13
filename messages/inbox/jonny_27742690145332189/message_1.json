@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jonny"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779588658158,
+      "content": "hahah appreciate it \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jonny",
+      "timestamp_ms": 1779570261733,
+      "content": "Bro this is sick man im proud of u this is next level",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonny",
+  "is_still_participant": true,
+  "thread_path": "inbox/jonny_27742690145332189",
+  "magic_words": [
+    
+  ]
+}

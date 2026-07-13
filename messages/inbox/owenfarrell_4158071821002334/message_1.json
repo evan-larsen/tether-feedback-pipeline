@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Owen Farrell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499040750,
+      "content": "Awesome! If you want to send me your gmail I can get you added onto the tester list\n\nGoogle makes me add your gmail to a big list for it to work haha\n\notherwise it'll be available normally in 14 days when Google lets me make the app public",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Owen Farrell",
+      "timestamp_ms": 1779471736515,
+      "content": "I'd love to try tether on Android!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Owen Farrell",
+  "is_still_participant": true,
+  "thread_path": "inbox/owenfarrell_4158071821002334",
+  "magic_words": [
+    
+  ]
+}

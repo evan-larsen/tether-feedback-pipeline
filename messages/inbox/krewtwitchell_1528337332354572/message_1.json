@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Krew Twitchell"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1781035338963,
+      "content": "U should send so many more notifications",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1781035281274,
+      "content": "Yo I got an idea for ur app",
+      "share": {
+        "link": "https://www.instagram.com/stories/evan.builds.tether/3915924625288199592"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779674644140,
+      "content": "Alr thks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674623097,
+      "content": "As I get more chapters added I am also eventually going to make it so you can change what chapter you're at so you'll be able to choose it later",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779590610595,
+      "content": "Its all good i prolly should reread nephi 2",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590566537,
+      "content": "but I didn't make it very obvious that's my bad \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590557917,
+      "content": "Yes so sorry it's because I only have 1 Nephi and a bit of 2 Nephi so I only had it let people choose 1 Nephi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779590005198,
+      "content": "When i tried to set where i was in the book of mormon it let me choose the chapter but not the book",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498409906,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779493952289,
+      "content": "Ive been trying to lock in and read ot for forever now but i havent funished yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779493923220,
+      "content": "Can you please send it on google",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Krew Twitchell",
+      "timestamp_ms": 1779493912421,
+      "content": "Krewtwitchell30@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krew Twitchell",
+  "is_still_participant": true,
+  "thread_path": "inbox/krewtwitchell_1528337332354572",
+  "magic_words": [
+    
+  ]
+}

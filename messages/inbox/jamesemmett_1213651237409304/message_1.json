@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "James Emmett"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "James Emmett",
+      "timestamp_ms": 1779676508379,
+      "content": "Ok, thanks bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779676485598,
+      "content": "I\u00e2\u0080\u0099ve gotten past the 12 person minimum now so it\u00e2\u0080\u0099s mostly just getting people onto Android that don\u00e2\u0080\u0099t wanna wait until Google lets me release it publicly in 11 days hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Emmett",
+      "timestamp_ms": 1779676447712,
+      "content": "Do you need more people to test still?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Emmett",
+      "timestamp_ms": 1779676413121,
+      "content": "Thanks man this will be great",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675084702,
+      "content": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "James Emmett",
+      "timestamp_ms": 1779596607733,
+      "content": "I'm on android Motorola specifically. If you still need testers emmettja1109@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "James Emmett",
+  "is_still_participant": true,
+  "thread_path": "inbox/jamesemmett_1213651237409304",
+  "magic_words": [
+    
+  ]
+}

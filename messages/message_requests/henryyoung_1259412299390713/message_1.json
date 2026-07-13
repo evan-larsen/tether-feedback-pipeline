@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Henry Young"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Henry Young",
+      "timestamp_ms": 1780761806533,
+      "content": "So I\u00e2\u0080\u0099ve been using Tether for a little bit now. It\u00e2\u0080\u0099s AMAZING.\n\nHowever I have a proposal. I think a really cool feature would be the ability to have friends like Duolingo. That way you can send daily reminders and encourage them to read.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Henry Young",
+  "is_still_participant": true,
+  "thread_path": "message_requests/henryyoung_1259412299390713",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

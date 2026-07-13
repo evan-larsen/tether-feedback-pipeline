@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Jeff Zaugg"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeff Zaugg",
+      "timestamp_ms": 1780279986120,
+      "content": "jpzaugg@gmail.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779385191791,
+      "content": "If you want you could send me your Gmail and I could get you added as a tester asap once it\u00e2\u0080\u0099s approved?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779385156205,
+      "content": "Hey! I saw your comment on my video, I\u00e2\u0080\u0099m just got the Android app uploaded yesterday but Google has to take a few days to review it for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jeff Zaugg",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeffzaugg_1476118880681427",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "mark keyser"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mark keyser",
+      "timestamp_ms": 1780337358115,
+      "content": "markkeyser09@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mark keyser",
+  "is_still_participant": true,
+  "thread_path": "message_requests/markkeyser_3902280266741344",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Remie Porter"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Remie Porter",
+      "timestamp_ms": 1779372056305,
+      "content": "awesome will do man",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371797952,
+      "content": "if you have any feedback or anything later feel free to DM me about it by the way",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371766322,
+      "content": "thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Remie Porter",
+      "timestamp_ms": 1779371752912,
+      "content": "I love the idea behind the app it\u00e2\u0080\u0099s awesome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779371357595,
+      "content": "yeahh my bad hahahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Remie Porter",
+      "timestamp_ms": 1779371337010,
+      "content": "ohhhh \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779369911504,
+      "content": "sorry I didn\u00e2\u0080\u0099t make that very obvious \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779369883364,
+      "content": "Ah so sorry I only have 1 Nephi and a little bit of 2 Nephi finished so far",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Remie Porter",
+      "timestamp_ms": 1779337870452,
+      "content": "Hey man, me and my girlfriend try to read at least 5 verses every night we saw your video on the release of tether and wanted to try it but we couldn\u00e2\u0080\u0099t change the book we were in from first Nephi when we were in mosiah, it would only allow us to change the chapter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Remie Porter",
+  "is_still_participant": true,
+  "thread_path": "inbox/remieporter_1290863269870723",
+  "magic_words": [
+    
+  ]
+}

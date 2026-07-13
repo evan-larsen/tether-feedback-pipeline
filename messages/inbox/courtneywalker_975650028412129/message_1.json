@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Courtney Walker"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779469083065,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Courtney Walker",
+      "timestamp_ms": 1779409222549,
+      "content": "That would be awesome, yes!  My email is cmcwalk@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779407294659,
+      "content": "Hey! I just saw your comment on my video. Google just approved Tether for testing on Android a few minutes ago. If you want to DM me your Gmail I could get you added as a tester and get you on the app asap? Otherwise it will be available publicly in 14 days \u00f0\u009f\u0098\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Courtney Walker",
+  "is_still_participant": true,
+  "thread_path": "inbox/courtneywalker_975650028412129",
+  "magic_words": [
+    
+  ]
+}

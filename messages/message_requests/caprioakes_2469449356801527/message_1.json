@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Capri Oakes"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Capri Oakes",
+      "timestamp_ms": 1780954130249,
+      "content": "Hey! Have you thought about making the Book of Mormon Duolingo other languages too? Thatd be so helpful!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Capri Oakes",
+  "is_still_participant": true,
+  "thread_path": "message_requests/caprioakes_2469449356801527",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

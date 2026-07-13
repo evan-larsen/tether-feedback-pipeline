@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "maren johnson"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "maren johnson",
+      "timestamp_ms": 1779166101143,
+      "content": "hey! does tether have past 1 Nephi yet? i love it but im in alma rn and it wouldn\u00e2\u0080\u0099t let me select a chapter besides 1 nephi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "maren johnson",
+  "is_still_participant": true,
+  "thread_path": "hidden_threads/marenjohnson_1632294044730243",
+  "magic_words": [
+    
+  ]
+}

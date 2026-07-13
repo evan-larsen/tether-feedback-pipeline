@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Malek Keller"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Malek Keller",
+      "timestamp_ms": 1781032097531,
+      "content": "How long until tether is available on Android?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Malek Keller",
+  "is_still_participant": true,
+  "thread_path": "message_requests/malekkeller_1002186762317510",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Ryli Tanner"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675001941,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ryli Tanner",
+      "timestamp_ms": 1779618136127,
+      "content": "ryli0713007@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ryli Tanner",
+      "timestamp_ms": 1779618135701,
+      "content": "Ryli sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYlqlory1sY/?id=3901711956444928792_24374813481",
+        "share_text": "my bad guys \u00f0\u009f\u0098\u0085",
+        "original_content_owner": "evan.builds.tether"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ryli Tanner",
+  "is_still_participant": true,
+  "thread_path": "inbox/rylitanner_1707721043744851",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Cassidy Sego"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cassidy Sego",
+      "timestamp_ms": 1780544268517,
+      "content": "Can I be a tester for Android!?!? I would really appreciate it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cassidy Sego",
+  "is_still_participant": true,
+  "thread_path": "message_requests/cassidysego_3640783919402717",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

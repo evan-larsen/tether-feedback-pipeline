@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Hayden Miller"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hayden Miller",
+      "timestamp_ms": 1779515200190,
+      "content": "Oh no worries at all!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499244409,
+      "content": "But I didn't make that very clear in that first screen sorry \u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499217969,
+      "content": "Yes so sorry I only have 1 Nephi and a bit of 2 Nephi chapters finished for the app so far",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hayden Miller",
+      "timestamp_ms": 1779427733461,
+      "content": "Hey there i recently downloaded the tether app, this app seems like it will be amazing and really help me to fully understand the scriptures even better. I do have a question though, when i got in i clicked get started and clicked already reading somewhere because i am currently reading it and i am at Alma 2. When i clicked already reading it wouldn\u00e2\u0080\u0099t let me chose which part i am at, it was stuck on 1 Nephi. I was wondering how could i change that and go to Alma 2? Thanks for the time, keep up the great work!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hayden Miller",
+  "is_still_participant": true,
+  "thread_path": "inbox/haydenmiller_1486632303199439",
+  "magic_words": [
+    
+  ]
+}

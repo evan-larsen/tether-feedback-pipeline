@@ -1,0 +1,75 @@
+{
+  "participants": [
+    {
+      "name": "Vienna Cheney"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405533782,
+      "content": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The app got approved for testing! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThis link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383340168,
+      "content": "hopefully shouldn\u00e2\u0080\u0099t take more than a few days if we\u00e2\u0080\u0099re lucky \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383332044,
+      "content": "Yeah I\u00e2\u0080\u0099ll let you know asap once Google approves it for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779383324228,
+      "content": "Perfect thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vienna Cheney",
+      "timestamp_ms": 1779374610490,
+      "content": "viennacheney8277@gmail.com for the early access!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vienna Cheney",
+      "timestamp_ms": 1779374610082,
+      "content": "Vienna sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DYlqlory1sY/?id=3901711956444928792_24374813481",
+        "share_text": "my bad guys \u00f0\u009f\u0098\u0085",
+        "original_content_owner": "evan.builds.tether"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vienna Cheney",
+  "is_still_participant": true,
+  "thread_path": "inbox/viennacheney_1879413699388223",
+  "magic_words": [
+    
+  ]
+}

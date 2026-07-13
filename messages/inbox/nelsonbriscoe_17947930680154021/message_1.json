@@ -1,0 +1,167 @@
+{
+  "participants": [
+    {
+      "name": "Nelson Briscoe"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779919185893,
+      "content": "You should add noise to the app",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779498029302,
+      "content": "The app just has this little problem where it doesn't recognize apostrophes ' sometimes so it makes it a \"?\" so I have to make sure it's the right format hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779497996251,
+      "content": "shoot I thought I fixed that 2nd one looks like I need to review it again",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779497983091,
+      "content": "ah yes thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779475005689,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nelsonbriscoe_17947930680154021/photos/1636922220897794.jpg",
+          "creation_timestamp": 1779475004
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779474943581,
+      "content": "I found another mistake, it\u00e2\u0080\u0099s just a typo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779474934863,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nelsonbriscoe_17947930680154021/photos/1274963034799788.jpg",
+          "creation_timestamp": 1779474933
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779226512550,
+      "content": "I\u00e2\u0080\u0099ll get that fixed rn for the next update",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779226482335,
+      "content": "oop yeah just took a look at that you\u00e2\u0080\u0099re definitely right",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779199459770,
+      "content": "He did see one descending brighter than the sun in his vision in verse 9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779199334698,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/nelsonbriscoe_17947930680154021/photos/2415108768994925.jpg",
+          "creation_timestamp": 1779199333
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/nelsonbriscoe_17947930680154021/photos/1030094422680036.jpg",
+          "creation_timestamp": 1779199333
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779160737395,
+      "content": "That sounds great. I will definitely let you know if I come across anything that could be fixed or improved. If you need more testers for android I have a good friend @jonahlew12 who is an awesome person and has an android and would be willing to help. Just DM him if you want the help. Let me know if you need help with anything and thank you for the awesome response!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779134386490,
+      "content": "Yeah pretty much on my own right now haha. A few friends have tested things slightly and given feedback but I'm building the app itself\n\nAnd honestly yes, that would actually be super helpful. The best thing would probably just be to use it for a few days and send me any feedback you notice, anything confusing, annoying, anything that could be better, or even if you get bored and don't feel like using it anymore haha. Literally no filter. You could just DM me whenever something comes up, even if it's small, and I'll seriously take a look at all of it. That kind of feedback is what makes a great app, so it would be super helpful haha.\n\nAnd right now most updates I make are pretty small so I just upload them pretty quickly, but whenever I have a bigger update that needs testing first I'll definitely get you on it first thing.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nelson Briscoe",
+      "timestamp_ms": 1779133305246,
+      "content": "Thanks for messaging me I was wondering if your doing this completely on your own or if you have friends helping you. I also love the idea and was wondering if there\u00e2\u0080\u0099s any way I can help or support you by being a tester or something?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779132577389,
+      "content": "Hey what's up man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779132521366,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nelson Briscoe",
+  "is_still_participant": true,
+  "thread_path": "inbox/nelsonbriscoe_17947930680154021",
+  "magic_words": [
+    
+  ]
+}

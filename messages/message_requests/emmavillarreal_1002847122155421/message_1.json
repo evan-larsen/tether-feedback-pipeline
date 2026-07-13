@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Emma Villarreal"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emma Villarreal",
+      "timestamp_ms": 1780274723856,
+      "content": "Is there any way that you could make a website version of this? The app seems amazing but because of my parents I would only be able to use the website",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emma Villarreal",
+  "is_still_participant": true,
+  "thread_path": "message_requests/emmavillarreal_1002847122155421",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

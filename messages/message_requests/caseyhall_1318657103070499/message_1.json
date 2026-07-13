@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Casey Hall"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Casey Hall",
+      "timestamp_ms": 1780683451895,
+      "content": "I'd love to be a tester for your app Tether. My Gmail is hallcasey502@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Casey Hall",
+  "is_still_participant": true,
+  "thread_path": "message_requests/caseyhall_1318657103070499",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "Gideon Jons"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779602322088,
+      "content": "Hey! I just got home and I got your email added to the list",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779594570570,
+      "content": "Yah that's fine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594547889,
+      "content": "super sorry though I\u00e2\u0080\u0099m away from my computer right now but I\u00e2\u0080\u0099ll be able to put it in later tonight okay?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594527759,
+      "content": "awesome thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779594518660,
+      "content": "gideonjons47@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594502587,
+      "content": "Otherwise it\u00e2\u0080\u0099ll be available normally in 12 days once Google just lets me release the app publicly",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594488054,
+      "content": "Yeah if you send me your email I can get you added to the tester list",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594471313,
+      "content": "okok chill",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779594464668,
+      "content": "Yah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594459290,
+      "content": "Because you have the Google play store right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779594451390,
+      "content": "I just looked it up I\u00e2\u0080\u0099m pretty sure it will work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779594372740,
+      "content": "Sorry about that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779592850695,
+      "content": "I've got a Motorola phone, not sure if it will work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779590403522,
+      "content": "Hey! Yeah are you on iPhone or Android?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gideon Jons",
+      "timestamp_ms": 1779589776206,
+      "content": "Yo can I get this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gideon Jons",
+  "is_still_participant": true,
+  "thread_path": "inbox/gideonjons_1648641763070424",
+  "magic_words": [
+    
+  ]
+}

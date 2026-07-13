@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Abigail Lamber-sanchez"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abigail Lamber-sanchez",
+      "timestamp_ms": 1779674488378,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674479001,
+      "content": "You can send him the same link it will work for him now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674474497,
+      "content": "Yes! I just got him added",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abigail Lamber-sanchez",
+      "timestamp_ms": 1779646438228,
+      "content": "Can you seet the link to my brother email. His email is moe.cuauhtli@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499991680,
+      "content": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Perfect thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abigail Lamber-sanchez",
+      "timestamp_ms": 1779498681590,
+      "content": "This is my email aaquiltahtli@gmail.com for testing the app. Would love to try the app.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abigail Lamber-sanchez",
+  "is_still_participant": true,
+  "thread_path": "inbox/abigaillambersanchez_953032754219992",
+  "magic_words": [
+    
+  ]
+}

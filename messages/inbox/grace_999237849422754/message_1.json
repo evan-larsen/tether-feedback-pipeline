@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Grace"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Grace",
+      "timestamp_ms": 1780833084826,
+      "content": "Gmatwood07@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grace",
+      "timestamp_ms": 1780407550344,
+      "content": "Hey! Can i test the app before i go on my mission??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grace",
+  "is_still_participant": true,
+  "thread_path": "inbox/grace_999237849422754",
+  "magic_words": [
+    
+  ]
+}

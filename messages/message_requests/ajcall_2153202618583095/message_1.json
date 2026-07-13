@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "AJ Call"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AJ Call",
+      "timestamp_ms": 1780035074837,
+      "content": "You I have the app but when it asks me to set up it says start at first Nephi 1:1 or somewhere else, so when I go to somewhere else it won\u00e2\u0080\u0099t let me select a chapter outside of 1 Nephi, is there a reason or is that a bug?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AJ Call",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ajcall_2153202618583095",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

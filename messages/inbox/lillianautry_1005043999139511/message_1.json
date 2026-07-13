@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Lillian Autry"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lillian Autry",
+      "timestamp_ms": 1779574182746,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499952854,
+      "content": "Ah you're definitely right about that I'll get that fixed thanks for letting me know!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Lillian Autry"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lillian Autry",
+      "timestamp_ms": 1779424095521,
+      "content": "It won\u00e2\u0080\u0099t let me send the screen shot for whatever reason but there\u00e2\u0080\u0099s a typo on the question in Nephi 2 ?-17 lol. Just thought you should know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lillian Autry",
+  "is_still_participant": true,
+  "thread_path": "inbox/lillianautry_1005043999139511",
+  "magic_words": [
+    
+  ]
+}

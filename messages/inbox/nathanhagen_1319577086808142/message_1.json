@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Nathan Hagen"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nathan Hagen",
+      "timestamp_ms": 1780027649183,
+      "content": "Yooo thank you dude!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027605966,
+      "content": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nathan Hagen",
+      "timestamp_ms": 1780027331766,
+      "content": "Appreciate it man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nathan Hagen",
+      "timestamp_ms": 1780027325708,
+      "content": "Nathanhagen2010@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027310840,
+      "content": "Hey! Yes if you want to send me your gmail I can get it added to the tester list and get you on the app asap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nathan Hagen",
+      "timestamp_ms": 1779937937371,
+      "content": "Im on android",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nathan Hagen",
+      "timestamp_ms": 1779937931943,
+      "content": "Yo can you give me early access",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nathan Hagen",
+  "is_still_participant": true,
+  "thread_path": "inbox/nathanhagen_1319577086808142",
+  "magic_words": [
+    
+  ]
+}

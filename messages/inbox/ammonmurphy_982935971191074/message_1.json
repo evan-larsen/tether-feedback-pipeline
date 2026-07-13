@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Ammon Murphy"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675413820,
+      "content": "No problem!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ammon Murphy",
+      "timestamp_ms": 1779675399523,
+      "content": "Thank you! I really appreciate it. Ive been trying to get back into reading the Book of Mormon especially looking at serving a mission in a year or so, so I really appreciate it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779675263397,
+      "content": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Awesome thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ammon Murphy",
+      "timestamp_ms": 1779674817601,
+      "content": "murphyammonj@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674709502,
+      "content": "If you send me your gmail I can add it to the tester list and get you added asap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779674699869,
+      "content": "Yes!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ammon Murphy",
+      "timestamp_ms": 1779671127692,
+      "content": "Yo, is it possible i could get Tether early for android??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ammon Murphy",
+  "is_still_participant": true,
+  "thread_path": "inbox/ammonmurphy_982935971191074",
+  "magic_words": [
+    
+  ]
+}

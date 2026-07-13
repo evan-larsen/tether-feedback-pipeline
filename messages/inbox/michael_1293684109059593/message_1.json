@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Michael"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779306933934,
+      "content": "hahah that\u00e2\u0080\u0099s great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael",
+      "timestamp_ms": 1779306901412,
+      "content": "Thank you \u00f0\u009f\u0098\u008a I downloaded your app, but I have some homework to finish first then I plan to use it!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Evan Larsen"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michael",
+      "timestamp_ms": 1779306831988,
+      "content": "Reacted \u00f0\u009f\u0091\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779306696207,
+      "content": "Hey! I saw your comment on my video. I just gotta say I looked at some of your videos and your content is awesome I love it!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Michael"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michael",
+  "is_still_participant": true,
+  "thread_path": "inbox/michael_1293684109059593",
+  "magic_words": [
+    
+  ]
+}

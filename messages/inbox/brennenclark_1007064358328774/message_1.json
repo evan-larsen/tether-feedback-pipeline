@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Brennen Clark"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779500043709,
+      "content": "no problem :D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brennen Clark",
+      "timestamp_ms": 1779499921913,
+      "content": "Yooo thanks bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779499797410,
+      "content": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Yes thank you! I just got you added\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app\n\nThat link should take you to the app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brennen Clark",
+      "timestamp_ms": 1779407930612,
+      "content": "Can I be a tester for the tether app???\nMy gmail is brennencla@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brennen Clark",
+  "is_still_participant": true,
+  "thread_path": "inbox/brennenclark_1007064358328774",
+  "magic_words": [
+    
+  ]
+}

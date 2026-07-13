@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Miranda Flanders"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miranda Flanders",
+      "timestamp_ms": 1780072983556,
+      "content": "That\u00e2\u0080\u0099s great!!! Take your time I can\u00e2\u0080\u0099t wait!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027354341,
+      "content": "But I am trying to get working on it as soon as I possibly can so don't worry hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1780027344935,
+      "content": "Yes! That's actually the thing I want to get added the most right now  I've just had to get a few other things done first",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miranda Flanders",
+      "timestamp_ms": 1779923304921,
+      "content": "Hey Evan! I got tether and I honestly love it!! And I got most of my young women\u00e2\u0080\u0099s class to get it too! We were talking about how awesome it would be to add friends on tether, so this is my suggestion for a future update to be able to add friends.\u00ef\u00bf\u00bc Thank you so much for making this app it helps me read and stay consistent with my scripture study!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miranda Flanders",
+  "is_still_participant": true,
+  "thread_path": "inbox/mirandaflanders_1736322520689324",
+  "magic_words": [
+    
+  ]
+}

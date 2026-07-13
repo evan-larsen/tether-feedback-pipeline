@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Miles Hammond"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Miles Hammond",
+      "timestamp_ms": 1780950873346,
+      "content": "add a friends system bro! love the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miles Hammond",
+  "is_still_participant": true,
+  "thread_path": "message_requests/mileshammond_972444522339644",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

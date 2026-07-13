@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Savvy MacDonald"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Savvy MacDonald",
+      "timestamp_ms": 1780096920407,
+      "content": "Ok ok so hear me out on your app tether you make it so you can have like a scripture on your home screen or like the chapter your on you something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Savvy MacDonald",
+  "is_still_participant": true,
+  "thread_path": "message_requests/savvymacdonald_958832440475636",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

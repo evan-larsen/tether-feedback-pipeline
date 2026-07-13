@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Caleb Westover"
+    },
+    {
+      "name": "Evan Larsen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405281099,
+      "content": "let me know if you have any issues with that link",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779405265455,
+      "content": "Hey! The testing got approved! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app",
+      "share": {
+        "link": "https://play.google.com/store/apps/details?id=com.tetherdaily.app",
+        "share_text": "Hey! The testing got approved! It was incredibly fast\n\nhttps://play.google.com/store/apps/details?id=com.tetherdaily.app"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caleb Westover",
+      "timestamp_ms": 1779392993777,
+      "content": "K thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392968579,
+      "content": "Hopefully shouldn't take more than a few days if we're lucky hahah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392962615,
+      "content": "Yeah I'll let you know once Google approves the app",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392949374,
+      "content": "awesome thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caleb Westover",
+      "timestamp_ms": 1779392938434,
+      "content": "clebwestover@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392914801,
+      "content": "Then I can get you on it asap once Google approves it for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779392899193,
+      "content": "Hey would you want to send me your gmail so I could add you as a tester on Android?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779335904527,
+      "content": "so I definitely should\u00e2\u0080\u0099ve started on this a while ago \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779335891071,
+      "content": "I just got the Android app submitted today but it\u00e2\u0080\u0099s going to take Google a few days to review it and approve it for testing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Evan Larsen",
+      "timestamp_ms": 1779335864003,
+      "content": "Not yet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Caleb Westover",
+      "timestamp_ms": 1779329366110,
+      "content": "Is the app available for Android users",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Caleb Westover",
+  "is_still_participant": true,
+  "thread_path": "inbox/calebwestover_1294184282835228",
+  "magic_words": [
+    
+  ]
+}
