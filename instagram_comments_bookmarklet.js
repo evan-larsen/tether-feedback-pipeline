@@ -2,23 +2,21 @@
 Instagram comments scraper bookmarklet source.
 
 How to use:
-1. Open an Instagram post/reel page in your browser.
-2. Open the comments if they are collapsed.
-3. Create a bookmark.
-4. Paste the minified bookmarklet from `instagram_comments_bookmarklet.txt`
+1. Open an Instagram profile grid, post, or reel page in your browser.
+2. Create a bookmark.
+3. Paste the minified bookmarklet from `instagram_comments_bookmarklet.txt`
    into the bookmark URL/location field.
-5. Click the bookmark while you are on the Instagram page.
+4. Click the bookmark while you are on Instagram.
 
 What it does:
-- Expands "more comments" / "more replies" buttons when possible
-- Scrolls the comments area until it stops loading more
-- Extracts visible comments
+- On a single post/reel: expands comments and scrapes the current item
+- On a profile/grid page: opens each loaded post/reel overlay, scrapes it,
+  saves the CSV, closes the overlay, and continues
 - Sends the CSV to a local helper server over WebSocket when available
-- Falls back to downloading `instagram-comments-<id>.csv`
+- Falls back to downloading `instagram-comments-<id>.csv` in single-post mode
 
 Notes:
-- Instagram changes its DOM often, so selectors may need tweaks later.
-- This is intentionally DOM-based and avoids private APIs.
+- Batch mode works best from a profile grid where clicking a tile opens an overlay.
 - Run `python save_instagram_comments_server.py` if you want files saved directly
   into the local `comments/` folder.
 */
@@ -28,11 +26,42 @@ Notes:
   const now = new Date();
   const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
   const selfUsername = "evan.builds.tether";
+  const overlayWaitMs = 15000;
+  const batchLoadRounds = 8;
+  const batchLoadPauseMs = 1200;
+  const debugPrefix = "[insta-bookmarklet]";
+  const localSaverUrls = ["ws://localhost:8765"];
 
   const seenClicks = new WeakSet();
 
   const buttonText = (el) =>
-    (el.innerText || el.textContent || "").replace(/\s+/g, " ").trim().toLowerCase();
+    (el?.innerText || el?.textContent || "").replace(/\s+/g, " ").trim().toLowerCase();
+
+  const isVisible = (el) => {
+    if (!el) {
+      return false;
+    }
+
+    const rect = el.getBoundingClientRect();
+    const style = window.getComputedStyle(el);
+    return (
+      rect.width > 0 &&
+      rect.height > 0 &&
+      style.visibility !== "hidden" &&
+      style.display !== "none"
+    );
+  };
+
+  const scopeRoot = () => document.querySelector('div[role="dialog"]') || document;
+  const overlayDialog = () => document.querySelector('div[role="dialog"]');
+  const log = (...args) => console.log(debugPrefix, ...args);
+  const describePost = (href, index, total) => {
+    const label = href ? href.split("/").filter(Boolean).slice(-1)[0] : "unknown";
+    if (typeof index === "number" && typeof total === "number") {
+      return `post ${index + 1}/${total} (${label})`;
+    }
+    return `post ${label}`;
+  };
 
   const isLoadMoreButton = (el) => {
     const text = buttonText(el);
@@ -44,11 +73,11 @@ Notes:
   const clickExpandableButtons = () => {
     let clicks = 0;
     const nodes = Array.from(
-      document.querySelectorAll('button, div[role="button"], span[role="button"]')
+      scopeRoot().querySelectorAll('button, div[role="button"], span[role="button"]')
     );
 
     for (const node of nodes) {
-      if (seenClicks.has(node) || !isLoadMoreButton(node)) {
+      if (seenClicks.has(node) || !isLoadMoreButton(node) || !isVisible(node)) {
         continue;
       }
 
@@ -61,25 +90,12 @@ Notes:
   };
 
   const hasVisibleExpandableButtons = () =>
-    Array.from(document.querySelectorAll('button, div[role="button"], span[role="button"]')).some(
-      (node) => {
-        if (!isLoadMoreButton(node)) {
-          return false;
-        }
-
-        const rect = node.getBoundingClientRect();
-        const style = window.getComputedStyle(node);
-        return (
-          rect.width > 0 &&
-          rect.height > 0 &&
-          style.visibility !== "hidden" &&
-          style.display !== "none"
-        );
-      }
-    );
+    Array.from(
+      scopeRoot().querySelectorAll('button, div[role="button"], span[role="button"]')
+    ).some((node) => isLoadMoreButton(node) && isVisible(node));
 
   const getScrollableCandidates = () =>
-    Array.from(document.querySelectorAll("div, section")).filter(
+    Array.from(scopeRoot().querySelectorAll("div, section")).filter(
       (el) => el.scrollHeight > el.clientHeight + 80 && el.clientHeight > 150
     );
 
@@ -99,8 +115,57 @@ Notes:
     return candidates.sort((a, b) => b.scrollHeight - a.scrollHeight)[0] || document.scrollingElement;
   };
 
+  const currentPostId = () => {
+    const match = location.pathname.match(/\/(reel|p)\/([^/]+)/);
+    return match ? match[2] : "";
+  };
+
+  const normalizePostHref = (href) => {
+    if (!href) {
+      return "";
+    }
+
+    const url = new URL(href, location.origin);
+    return `${url.origin}${url.pathname}`;
+  };
+
+  const findCommentButtons = () =>
+    Array.from(
+      scopeRoot().querySelectorAll('button, a, div[role="button"], span[role="button"]')
+    ).filter((node) => {
+      const text = buttonText(node);
+      const aria = (node.getAttribute("aria-label") || "").toLowerCase();
+      return (
+        isVisible(node) &&
+        (/comment/.test(text) || /comment/.test(aria)) &&
+        !isLoadMoreButton(node)
+      );
+    });
+
+  const ensureCommentsVisible = async () => {
+    if (extractComments().length) {
+      log("comments already visible");
+      return;
+    }
+
+    const buttons = findCommentButtons();
+    log("looking for comment buttons", buttons.length);
+    for (const button of buttons) {
+      log("opening comments panel");
+      button.click();
+      await sleep(800);
+      if (extractComments().length || hasVisibleExpandableButtons()) {
+        log("comments panel opened");
+        return;
+      }
+    }
+
+    log("no comment button opened anything");
+  };
+
   const extractComments = () => {
-    const items = Array.from(document.querySelectorAll("ul li"));
+    const root = scopeRoot();
+    const items = Array.from(root.querySelectorAll("ul li"));
     const comments = [];
     const seen = new Set();
 
@@ -269,127 +334,85 @@ Notes:
     return comments;
   };
 
-  const postId = (() => {
-    const match = location.pathname.match(/\/(reel|p)\/([^/]+)/);
-    return match ? match[2] : "post";
-  })();
+  const saveViaLocalServer = async (postId, csv) => {
+    const errors = [];
 
-  const saveViaLocalServer = (csv) =>
-    new Promise((resolve, reject) => {
-      let socket;
+    for (const url of localSaverUrls) {
       try {
-        socket = new WebSocket("ws://localhost:8765");
-      } catch (error) {
-        reject(error);
-        return;
-      }
+        log("connecting to local saver", url, postId);
+        const result = await new Promise((resolve, reject) => {
+          let settled = false;
+          let socket;
+          let timer;
 
-      const cleanup = () => {
-        if (
-          socket &&
-          (socket.readyState === WebSocket.OPEN || socket.readyState === WebSocket.CONNECTING)
-        ) {
-          socket.close();
-        }
-      };
+          const finish = (fn, value) => {
+            if (settled) {
+              return;
+            }
+            settled = true;
+            if (timer) {
+              clearTimeout(timer);
+            }
+            if (
+              socket &&
+              (socket.readyState === WebSocket.OPEN || socket.readyState === WebSocket.CONNECTING)
+            ) {
+              socket.close();
+            }
+            fn(value);
+          };
 
-      socket.onopen = () => {
-        socket.send(
-          JSON.stringify({
-            post_id: postId,
-            csv,
-          })
-        );
-      };
-
-      socket.onmessage = (event) => {
-        try {
-          const data = JSON.parse(event.data);
-          if (!data.ok) {
-            reject(new Error(data.error || "Unknown local save error"));
-            cleanup();
+          try {
+            socket = new WebSocket(url);
+          } catch (error) {
+            reject(error);
             return;
           }
 
-          resolve(data);
-        } catch (error) {
-          reject(error);
-        } finally {
-          cleanup();
-        }
-      };
+          timer = setTimeout(() => {
+            finish(reject, new Error(`Timed out connecting to ${url}`));
+          }, 6000);
 
-      socket.onerror = () => {
-        reject(new Error("WebSocket connection to local saver failed"));
-      };
-    });
+          socket.onopen = () => {
+            socket.send(
+              JSON.stringify({
+                post_id: postId,
+                csv,
+              })
+            );
+          };
 
-  console.log(
-    "Instagram comment scrape started. Keep this tab active for a few seconds while comments load."
-  );
+          socket.onmessage = (event) => {
+            try {
+              const data = JSON.parse(event.data);
+              if (!data.ok) {
+                finish(reject, new Error(data.error || `Unknown local save error via ${url}`));
+                return;
+              }
 
-  if (hasVisibleExpandableButtons()) {
-    let lastCount = 0;
-    let stagnantRounds = 0;
+              finish(resolve, data);
+            } catch (error) {
+              finish(reject, error);
+            }
+          };
 
-    for (let round = 0; round < 25; round += 1) {
-      clickExpandableButtons();
+          socket.onerror = () => {
+            finish(reject, new Error(`WebSocket connection failed for ${url}`));
+          };
+        });
 
-      const scrollTarget = pickScrollTarget();
-      if (scrollTarget) {
-        scrollTarget.scrollTop = scrollTarget.scrollHeight;
-      }
-      window.scrollTo(0, document.body.scrollHeight);
-
-      await sleep(1200);
-
-      clickExpandableButtons();
-      await sleep(600);
-
-      const currentCount = extractComments().length;
-      if (currentCount <= lastCount) {
-        stagnantRounds += 1;
-      } else {
-        stagnantRounds = 0;
-        lastCount = currentCount;
-      }
-
-      if (stagnantRounds >= 4 || !hasVisibleExpandableButtons()) {
-        break;
+        log("saved through local server", url, result.filename);
+        return result;
+      } catch (error) {
+        log("local saver connection failed", url, error.message);
+        errors.push(`${url}: ${error.message}`);
       }
     }
-  }
 
-  const comments = extractComments();
-  if (!comments.length) {
-    alert(
-      "No comments were found. Make sure you are on an Instagram post/reel page with comments visible."
-    );
-    return;
-  }
+    throw new Error(`Local saver connection failed. ${errors.join(" | ")}`);
+  };
 
-  const csvEscape = (value) => `"${String(value ?? "").replace(/"/g, '""')}"`;
-  const rows = [
-    ["post_id", "timestamp", "username", "comment", "comment_full", "extra_lines_count"],
-    ...comments.map((item) => [
-      postId,
-      item.timestamp,
-      item.username,
-      item.comment,
-      item.commentFull,
-      item.extraLines.length,
-    ]),
-  ];
-  const csv = rows.map((row) => row.map(csvEscape).join(",")).join("\n");
-  try {
-    const result = await saveViaLocalServer(csv);
-    alert(`Saved ${comments.length} comments to comments/${result.filename}`);
-    return;
-  } catch (error) {
-    console.warn("Local comment save unavailable, falling back to download.", error);
-  }
-
-  try {
+  const downloadCsv = (postId, csv) => {
     const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
@@ -399,10 +422,325 @@ Notes:
     link.click();
     link.remove();
     URL.revokeObjectURL(url);
+  };
 
-    alert(`Downloaded ${comments.length} comments.`);
+  const buildCsv = (postId, comments) => {
+    const csvEscape = (value) => `"${String(value ?? "").replace(/"/g, '""')}"`;
+    const rows = [
+      ["post_id", "timestamp", "username", "comment", "comment_full", "extra_lines_count"],
+      ...comments.map((item) => [
+        postId,
+        item.timestamp,
+        item.username,
+        item.comment,
+        item.commentFull,
+        item.extraLines.length,
+      ]),
+    ];
+    return rows.map((row) => row.map(csvEscape).join(",")).join("\n");
+  };
+
+  const expandCurrentComments = async () => {
+    if (hasVisibleExpandableButtons()) {
+      log("loading all comments and replies");
+      let lastCount = 0;
+      let stagnantRounds = 0;
+
+      for (let round = 0; round < 25; round += 1) {
+        log(`expand round ${round + 1}`);
+        clickExpandableButtons();
+
+        const scrollTarget = pickScrollTarget();
+        if (scrollTarget) {
+          scrollTarget.scrollTop = scrollTarget.scrollHeight;
+        }
+        window.scrollTo(0, document.body.scrollHeight);
+
+        await sleep(1200);
+
+        clickExpandableButtons();
+        await sleep(600);
+
+        const currentCount = extractComments().length;
+        log("current extracted comments", currentCount);
+        if (currentCount <= lastCount) {
+          stagnantRounds += 1;
+        } else {
+          stagnantRounds = 0;
+          lastCount = currentCount;
+        }
+
+        if (stagnantRounds >= 4 || !hasVisibleExpandableButtons()) {
+          log("finished expanding comments");
+          break;
+        }
+      }
+    } else {
+      log("no expandable comments UI found");
+    }
+  };
+
+  const scrapeCurrentPost = async ({ batchMode = false } = {}) => {
+    const postId = currentPostId();
+    if (!postId) {
+      throw new Error("No Instagram post/reel is currently open.");
+    }
+
+    log("scraping current post", postId);
+    await ensureCommentsVisible();
+    await expandCurrentComments();
+
+    const comments = extractComments();
+    log("comment extraction complete", postId, comments.length);
+    if (!comments.length) {
+      return {
+        postId,
+        comments: [],
+        saved: false,
+        skipped: true,
+        reason: "No comments found",
+      };
+    }
+
+    const csv = buildCsv(postId, comments);
+    log("csv built", postId, `${comments.length} comments`);
+
+    try {
+      log("saving comments", postId);
+      const result = await saveViaLocalServer(postId, csv);
+      log("saving complete", postId, result.filename);
+      return {
+        postId,
+        comments,
+        saved: true,
+        method: "server",
+        filename: result.filename,
+      };
+    } catch (error) {
+      if (batchMode) {
+        throw new Error(
+          `Batch mode could not reach the local saver. Restart python save_instagram_comments_server.py and retry. (${error.message})`
+        );
+      }
+
+      log("local saver unavailable, downloading instead", postId);
+      downloadCsv(postId, csv);
+      log("download complete", postId);
+      return {
+        postId,
+        comments,
+        saved: true,
+        method: "download",
+        filename: `instagram-comments-${postId}.csv`,
+      };
+    }
+  };
+
+  const waitFor = async (predicate, timeoutMs, label) => {
+    const startedAt = Date.now();
+    while (Date.now() - startedAt < timeoutMs) {
+      const value = predicate();
+      if (value) {
+        return value;
+      }
+      await sleep(250);
+    }
+    throw new Error(`Timed out waiting for ${label}.`);
+  };
+
+  const clickElement = (element) => {
+    element.dispatchEvent(new MouseEvent("mouseover", { bubbles: true, cancelable: true }));
+    element.dispatchEvent(new MouseEvent("mousedown", { bubbles: true, cancelable: true }));
+    element.dispatchEvent(new MouseEvent("mouseup", { bubbles: true, cancelable: true }));
+    element.dispatchEvent(new MouseEvent("click", { bubbles: true, cancelable: true }));
+  };
+
+  const gridPostHrefs = () => {
+    const anchors = Array.from(document.querySelectorAll('a[href*="/reel/"], a[href*="/p/"]'));
+    const seen = new Set();
+    const hrefs = [];
+
+    for (const anchor of anchors) {
+      const href = anchor.href;
+      if (!href) {
+        continue;
+      }
+
+      const normalized = normalizePostHref(href);
+      if (!normalized) {
+        continue;
+      }
+      if (seen.has(normalized)) {
+        continue;
+      }
+
+      seen.add(normalized);
+      hrefs.push(normalized);
+    }
+
+    return hrefs;
+  };
+
+  const loadMoreGridItems = async () => {
+    let lastCount = 0;
+    let stagnantRounds = 0;
+
+    log("loading visible posts from profile grid");
+    for (let round = 0; round < batchLoadRounds; round += 1) {
+      const currentCount = gridPostHrefs().length;
+      log(`grid load round ${round + 1}`, `${currentCount} posts found`);
+      if (currentCount <= lastCount) {
+        stagnantRounds += 1;
+      } else {
+        stagnantRounds = 0;
+        lastCount = currentCount;
+      }
+
+      if (stagnantRounds >= 3) {
+        break;
+      }
+
+      window.scrollTo(0, document.body.scrollHeight);
+      await sleep(batchLoadPauseMs);
+    }
+
+    log("grid loading complete");
+    window.scrollTo(0, 0);
+    await sleep(500);
+    const hrefs = gridPostHrefs();
+    log("final loaded post count", hrefs.length);
+    return hrefs;
+  };
+
+  const openOverlayForHref = async (targetHref, index, total) => {
+    const candidate = Array.from(document.querySelectorAll('a[href*="/reel/"], a[href*="/p/"]')).find(
+      (anchor) => normalizePostHref(anchor.href) === targetHref
+    );
+
+    if (!candidate) {
+      throw new Error(`Could not find tile for ${targetHref} on the current page.`);
+    }
+
+    const beforePath = location.pathname;
+    candidate.scrollIntoView({ behavior: "auto", block: "center" });
+    await sleep(400);
+    log("opening", describePost(targetHref, index, total));
+    clickElement(candidate);
+
+    try {
+      await waitFor(
+        () => overlayDialog() || currentPostId() || location.pathname !== beforePath,
+        overlayWaitMs / 2,
+        `overlay or route change for ${targetHref}`
+      );
+    } catch (error) {
+      log("anchor click did not open post, trying direct navigation", describePost(targetHref, index, total));
+      history.pushState(null, "", targetHref);
+      window.dispatchEvent(new PopStateEvent("popstate"));
+    }
+
+    await waitFor(
+      () => overlayDialog() || currentPostId(),
+      overlayWaitMs,
+      `overlay for ${targetHref}`
+    );
+    log("post opened", describePost(targetHref, index, total));
+    await sleep(1200);
+  };
+
+  const closeOverlay = async () => {
+    const dialog = overlayDialog();
+    if (!dialog) {
+      if (currentPostId()) {
+        log("closing post via history back");
+        history.back();
+        await sleep(1200);
+      }
+      return;
+    }
+
+    const closeButton = Array.from(dialog.querySelectorAll("button, div[role='button']")).find(
+      (node) => {
+        const aria = (node.getAttribute("aria-label") || "").toLowerCase();
+        const text = buttonText(node);
+        return /close/.test(aria) || text === "close";
+      }
+    );
+
+    if (closeButton) {
+      log("closing overlay");
+      closeButton.click();
+    } else {
+      log("close button not found, sending escape");
+      document.dispatchEvent(
+        new KeyboardEvent("keydown", { key: "Escape", code: "Escape", bubbles: true })
+      );
+    }
+
+    await waitFor(
+      () => !overlayDialog(),
+      overlayWaitMs,
+      "overlay to close"
+    );
+    log("overlay closed");
+    await sleep(800);
+  };
+
+  const runBatchMode = async () => {
+    const hrefs = await loadMoreGridItems();
+    if (!hrefs.length) {
+      throw new Error("No Instagram post/reel tiles were found on this page.");
+    }
+
+    const processed = [];
+    const skipped = [];
+
+    for (let index = 0; index < hrefs.length; index += 1) {
+      const href = hrefs[index];
+      log("starting", describePost(href, index, hrefs.length));
+
+      await openOverlayForHref(href, index, hrefs.length);
+
+      try {
+        const result = await scrapeCurrentPost({ batchMode: true });
+        if (result.skipped) {
+          log("skipping", describePost(href, index, hrefs.length), result.reason);
+          skipped.push(result);
+        } else {
+          log("finished", describePost(href, index, hrefs.length), `${result.comments.length} comments saved`);
+          processed.push(result);
+        }
+      } finally {
+        await closeOverlay();
+      }
+    }
+
+    log("batch scrape complete", `saved=${processed.length}`, `skipped=${skipped.length}`);
+    alert(
+      `Batch scrape finished.\nSaved ${processed.length} posts.\nSkipped ${skipped.length} posts with no recent comments.`
+    );
+  };
+
+  log(
+    "Instagram comment scrape started. Open a post/reel to scrape one item, or run from a profile grid to batch through loaded tiles."
+  );
+
+  try {
+    if (currentPostId()) {
+      const result = await scrapeCurrentPost({ batchMode: false });
+      if (result.skipped) {
+        alert("No comments were found on the current post/reel.");
+      } else if (result.method === "server") {
+        alert(`Saved ${result.comments.length} comments to comments/${result.filename}`);
+      } else {
+        alert(`Downloaded ${result.comments.length} comments.`);
+      }
+      return;
+    }
+
+    await runBatchMode();
   } catch (error) {
-    console.error("Instagram comment export failed.", error);
-    alert(`Instagram comment export failed: ${error?.message || error}`);
+    console.error(debugPrefix, error);
+    alert(`Instagram bookmarklet failed: ${error?.message || error}`);
   }
 })();
