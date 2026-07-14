@@ -24,7 +24,8 @@ The output line count must exactly match the input line count. Preserve order ex
 3. Classify every line using the taxonomy in `references/taxonomy.md`.
 4. Write only ordered labels to `output/codex_labels.txt`.
 5. Run `python merge_codex_feedback.py` immediately after writing `output/codex_labels.txt`.
-6. In the final response, confirm that the merge command was run and that `output/master_feedback_with_categories.csv` was updated.
+6. Run `python prepare_codex_feedback.py` again after the merge so `output/pending_feedback.csv` and `output/pending_codex_input.txt` reflect the new categorized state.
+7. In the final response, confirm that the merge command was run, that `output/master_feedback_with_categories.csv` was updated, and that the post-merge prepare step left `output/pending_feedback.csv` with the expected remaining count.
 
 ## Output Rules
 
@@ -52,6 +53,8 @@ The output line count must exactly match the input line count. Preserve order ex
 - For comment rows, the input is already stripped down to the main comment text.
 - For DM rows, the input may be longer and can include more direct feature language.
 - The merge step depends on exact line order, so never reorder, skip, or combine lines.
+- `python merge_codex_feedback.py` does not clear `output/pending_feedback.csv` by itself; that file is only refreshed by `python prepare_codex_feedback.py`.
+- If `pending_feedback.csv` still shows old rows after labeling, treat it as stale until the post-merge prepare step has been run and verified.
 - If the user wants summaries or prioritization, do that after writing `output/codex_labels.txt`, not inside it.
 
 ## Taxonomy
